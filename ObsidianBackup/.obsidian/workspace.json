@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "850ee21e0c5c6862",
+    "type": "split",
+    "children": [
+      {
+        "id": "90b34e22fa1d9341",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8e0601f467524e7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a99bbc28e578515d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7807bc5490cbbc40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "379add9916a8ba23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c20e097c15fb14a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d09c7e034660682b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "184109defdd3d8ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fab873a5a362c5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed8197343886e61c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "443f5461e9996d2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "262c9e66a3def920",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4871c6446405b035",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "379add9916a8ba23",
+  "lastOpenFiles": [
+    "未命名.md",
+    "Self-CS/CS61A/Textbook/1.5 Control.md",
+    "Self-CS/CS61A/Textbook/1.4 Designing Functions.md",
+    "Self-CS/CS61A/Textbook/1.2 Elements of Programming.md",
+    "Self-CS/CS61A/Textbook/1.3 Defining New Functions.md",
+    "Self-CS/CS61A/Notes/Lec.2Q&A.md",
+    "Self-CS/CS61A/Textbook/1.1 Getting Started.md",
+    "Self-CS/CS61A/Notes/Lec.3 Print&None.md",
+    "Self-CS/CS61A/Notes/Lec.2 Functions.md",
+    "Self-CS/CS61A/Textbook",
+    "Self-CS/CS61A/Notes",
+    "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
+    "Self-CS/如何有效地报告 Bug.md",
+    "Self-CS/CS61A",
+    "Self-CS",
+    "Pics/CCFD6252F85C06DA8EFF610C79F75B6F.png",
+    "Pics/C1ABB548DAACB525FA8B3E6F9C839450.png",
+    "Pics/53C858FD34D8D40E45B56B427A309F69.png",
+    "Pics/888D0B64BB85245F1BB470E4195A5B07.png",
+    "Pics/76DE835D0016097315BBB083F58E22EB.png",
+    "Pics/18804E6D59BCDA677F63150D50B67D22.png",
+    "Pics",
+    "Diary/2023-01-24 第一天使用Obsidian.md",
+    "Diary"
+  ]
+}
