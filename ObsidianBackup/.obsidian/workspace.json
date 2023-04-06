@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -163,7 +163,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "443f5461e9996d2c",
+  "active": "323a792c62a5fd9d",
   "lastOpenFiles": [
     "Self-CS/CS61A/Textbook/1.5 Control.md",
     "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md",
