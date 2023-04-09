@@ -3,5 +3,6 @@
   "table-editor-obsidian",
   "calendar",
   "obsidian-git",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "cm-chs-patch"
 ]
