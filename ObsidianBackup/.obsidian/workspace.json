@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4eb46c0b8127a25c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "ST&LT Task/2023-4 plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +162,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4eb46c0b8127a25c",
+  "active": "c8e0601f467524e7",
   "lastOpenFiles": [
     "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md",
     "ST&LT Task/2023-4 plan.md",
