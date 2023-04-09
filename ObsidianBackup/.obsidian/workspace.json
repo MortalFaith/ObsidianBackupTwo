@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4eb46c0b8127a25c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ST&LT Task/2023-4 plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md",
+                "file": "ST&LT Task/2023-4 plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md",
+                "file": "ST&LT Task/2023-4 plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md"
+                "file": "ST&LT Task/2023-4 plan.md"
               }
             }
           },
@@ -162,11 +175,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c8e0601f467524e7",
+  "active": "4eb46c0b8127a25c",
   "lastOpenFiles": [
+    "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md",
+    "ST&LT Task/2023-4 plan.md",
+    "ST&LT Task",
     "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
     "Self-CS/如何有效地报告 Bug.md",
-    "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md",
     "未命名.canvas",
     "Self-CS/CS61A/Textbook/1.5 Control.md",
     "Self-CS/CS61A/Textbook/1.4 Designing Functions.md",
@@ -174,7 +189,6 @@
     "Self-CS/CS61A/Textbook/1.2 Elements of Programming.md",
     "Self-CS/CS61A/Textbook/1.1 Getting Started.md",
     "Self-CS/CS61A/Textbook/simpread-1.6 Higher-Order Functions.md",
-    "未命名.md",
     "Self-CS/CS61A/Notes/Lec.2Q&A.md",
     "Self-CS/CS61A/Notes/Lec.3 Print&None.md",
     "Self-CS/CS61A/Notes/Lec.2 Functions.md",
