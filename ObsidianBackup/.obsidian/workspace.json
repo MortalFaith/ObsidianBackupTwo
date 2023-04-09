@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -80,6 +80,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3b5ad4661cbd9ca7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
             "id": "ed8197343886e61c",
             "type": "leaf",
             "state": {
@@ -130,14 +138,6 @@
             }
           },
           {
-            "id": "3b5ad4661cbd9ca7",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "323a792c62a5fd9d",
             "type": "leaf",
             "state": {
@@ -145,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,7 +162,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3b5ad4661cbd9ca7",
+  "active": "c8e0601f467524e7",
   "lastOpenFiles": [
     "Self-CS/CS61A/Textbook/1.5 Control.md",
     "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md",
