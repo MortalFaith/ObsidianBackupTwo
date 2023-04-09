@@ -11,8 +11,12 @@
             "id": "c8e0601f467524e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Self-CS/How-To-Ask-Questions-The-Smart-Way.md"
+              }
             }
           },
           {
@@ -154,24 +162,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "379add9916a8ba23",
+  "active": "c8e0601f467524e7",
   "lastOpenFiles": [
-    "未命名.canvas",
+    "Self-CS/如何有效地报告 Bug.md",
+    "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
     "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md",
+    "未命名.canvas",
     "Self-CS/CS61A/Textbook/1.5 Control.md",
     "Self-CS/CS61A/Textbook/1.4 Designing Functions.md",
     "Self-CS/CS61A/Textbook/1.3 Defining New Functions.md",
     "Self-CS/CS61A/Textbook/1.2 Elements of Programming.md",
     "Self-CS/CS61A/Textbook/1.1 Getting Started.md",
     "Self-CS/CS61A/Textbook/simpread-1.6 Higher-Order Functions.md",
-    "Self-CS/如何有效地报告 Bug.md",
     "未命名.md",
     "Self-CS/CS61A/Notes/Lec.2Q&A.md",
     "Self-CS/CS61A/Notes/Lec.3 Print&None.md",
     "Self-CS/CS61A/Notes/Lec.2 Functions.md",
     "Self-CS/CS61A/Textbook",
     "Self-CS/CS61A/Notes",
-    "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
     "Self-CS/CS61A",
     "Self-CS",
     "Pics/CCFD6252F85C06DA8EFF610C79F75B6F.png",
