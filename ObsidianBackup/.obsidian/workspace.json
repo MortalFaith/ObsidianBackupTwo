@@ -146,11 +146,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +163,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "323a792c62a5fd9d",
+  "active": "3b5ad4661cbd9ca7",
   "lastOpenFiles": [
     "Self-CS/CS61A/Textbook/1.5 Control.md",
     "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md",
