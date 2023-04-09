@@ -11,12 +11,8 @@
             "id": "c8e0601f467524e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,14 +154,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c8e0601f467524e7",
+  "active": "379add9916a8ba23",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md",
     "Self-CS/CS61A/Textbook/1.5 Control.md",
     "Self-CS/CS61A/Textbook/1.4 Designing Functions.md",
     "Self-CS/CS61A/Textbook/1.3 Defining New Functions.md",
     "Self-CS/CS61A/Textbook/1.2 Elements of Programming.md",
     "Self-CS/CS61A/Textbook/1.1 Getting Started.md",
-    "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md",
     "Self-CS/CS61A/Textbook/simpread-1.6 Higher-Order Functions.md",
     "Self-CS/如何有效地报告 Bug.md",
     "未命名.md",
