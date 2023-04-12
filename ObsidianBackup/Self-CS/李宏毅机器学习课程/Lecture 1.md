@@ -17,4 +17,10 @@
  3.1假设只有一个未知数w
  随机选一个w0，计算L对w的微分，向L低的方向移动
  移动距离=![[Pasted image 20230412160451.png]]
+ *hyperparameter参数（自己设定）*
+ 更新直到：
+ 1.自设的次数
+ 2.到最低点：Local minima/Global minima
+ ![[Pasted image 20230412160950.png]]
+ 
  
