@@ -8,4 +8,8 @@
  like y = b + wx1   --Model
  需要一些对问题本质的了解(domain knowledge)
  2.定义损失(Loss)
- Loss是一个函数，
+ Loss是一个函数，输入为b和w，表示值的好坏
+ *Label指正确的数值*
+ L = 所有的误差e的平均值
+ ![[Pasted image 20230412155421.png]]
+ 
