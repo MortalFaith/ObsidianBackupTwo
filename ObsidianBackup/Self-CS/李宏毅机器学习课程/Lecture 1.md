@@ -12,4 +12,5 @@
  *Label指正确的数值*
  L = 所有的误差e的平均值
  ![[Pasted image 20230412155421.png]]
- 
+ 3.最佳化：找到最好的w和b
+ 方法：Gradient Descent
