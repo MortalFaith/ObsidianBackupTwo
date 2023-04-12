@@ -5,5 +5,7 @@
  structured learning：创造有结构的东西
 
  1.写出一个带有未知数的函数
- like y = b + wx1
- 2.
+ like y = b + wx1   --Model
+ 需要一些对问题本质的了解(domain knowledge)
+ 2.定义损失(Loss)
+ Loss是一个函数，
