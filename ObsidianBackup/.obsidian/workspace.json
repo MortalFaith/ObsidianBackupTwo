@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ccf0662959a8414a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,6 +73,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab8ad21d82e1a05b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -163,7 +182,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bf7a22516b1f5606",
+  "active": "ccf0662959a8414a",
   "lastOpenFiles": [
     "ST&LT Task/2023-4-W2 plan.md",
     "ST&LT Task/2023-5-W1 plan.md",
