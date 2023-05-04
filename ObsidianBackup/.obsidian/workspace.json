@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ccf0662959a8414a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +171,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ccf0662959a8414a",
+  "active": "bf7a22516b1f5606",
   "lastOpenFiles": [
     "ST&LT Task/2023-4-W2 plan.md",
     "ST&LT Task/2023-5-W1 plan.md",
