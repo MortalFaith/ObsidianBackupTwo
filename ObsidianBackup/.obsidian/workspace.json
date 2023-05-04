@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self-CS/CS61A/Notes/未命名.md",
+                "file": "Self-CS/CS61A/Notes/Lec.3 Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self-CS/CS61A/Notes/未命名.md",
+                "file": "Self-CS/CS61A/Notes/Lec.3 Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-CS/CS61A/Notes/未命名.md",
+                "file": "Self-CS/CS61A/Notes/Lec.3 Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-CS/CS61A/Notes/未命名.md",
+                "file": "Self-CS/CS61A/Notes/Lec.3 Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self-CS/CS61A/Notes/未命名.md"
+                "file": "Self-CS/CS61A/Notes/Lec.3 Control.md"
               }
             }
           },
@@ -183,10 +183,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "379add9916a8ba23",
+  "active": "bf7a22516b1f5606",
   "lastOpenFiles": [
     "Self-CS/CS61A/Notes/Lec.3 Print&None.md",
-    "Self-CS/CS61A/Notes/未命名.md",
+    "Self-CS/CS61A/Notes/Lec.3 Control.md",
     "Self-CS/CS61A/Textbook/1.5 Control.md",
     "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md",
     "ST&LT Task/2023-5-W1 plan.md",
