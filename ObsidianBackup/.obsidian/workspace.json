@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self-CS/CS61A/Notes/Lec.3 Control.md",
+                "file": "Self-CS/CS61A/Notes/Lec.3 Control Q&A.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self-CS/CS61A/Notes/Lec.3 Control.md",
+                "file": "Self-CS/CS61A/Notes/Lec.3 Control Q&A.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-CS/CS61A/Notes/Lec.3 Control.md",
+                "file": "Self-CS/CS61A/Notes/Lec.3 Control Q&A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-CS/CS61A/Notes/Lec.3 Control.md",
+                "file": "Self-CS/CS61A/Notes/Lec.3 Control Q&A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self-CS/CS61A/Notes/Lec.3 Control.md"
+                "file": "Self-CS/CS61A/Notes/Lec.3 Control Q&A.md"
               }
             }
           },
@@ -185,9 +185,10 @@
   },
   "active": "bf7a22516b1f5606",
   "lastOpenFiles": [
+    "Pasted image 20230504223417.png",
     "Pasted image 20230504222832.png",
     "Self-CS/CS61A/Notes/Lec.3 Print&None.md",
-    "Self-CS/CS61A/Notes/Lec.3 Control.md",
+    "Self-CS/CS61A/Notes/Lec.3 Control Q&A.md",
     "Self-CS/CS61A/Notes/Lec.2Q&A.md",
     "Pasted image 20230504221711.png",
     "Self-CS/CS61A/Textbook/1.5 Control.md",
@@ -222,7 +223,6 @@
     "Pics/53C858FD34D8D40E45B56B427A309F69.png",
     "Pics/888D0B64BB85245F1BB470E4195A5B07.png",
     "Pics/76DE835D0016097315BBB083F58E22EB.png",
-    "Pics/18804E6D59BCDA677F63150D50B67D22.png",
     "Pics",
     "Diary/2023-01-24 第一天使用Obsidian.md"
   ]
