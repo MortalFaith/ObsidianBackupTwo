@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7020a19941fc0396",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +194,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bf7a22516b1f5606",
+  "active": "7020a19941fc0396",
   "lastOpenFiles": [
     "Self-CS/The Missing Semester of Your CS Education/未命名 1.md",
     "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
