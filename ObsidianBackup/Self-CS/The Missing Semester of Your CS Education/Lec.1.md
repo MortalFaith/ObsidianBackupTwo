@@ -11,3 +11,6 @@ you might see esses, T, L etc.--they are useful
 mv allow you to change name and directory
 cp likewise
 rm - can follow a path to remove everything below them
+rm can't remove a directory
+(but rmdir can)
+mkdir "My Photo"C
