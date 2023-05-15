@@ -8,4 +8,6 @@ if you have write permission on the file but have no write permission on directo
 excute a file need all permission on the route.
 you might see esses, T, L etc.--they are useful
 
-mv allow you to change
+mv allow you to change name and directory
+cp likewise
+rm - can follow a path to remove everything below them
