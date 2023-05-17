@@ -14,3 +14,5 @@ rm - can follow a path to remove everything below them
 rm can't remove a directory
 (but rmdir can)
 mkdir "My Photo"C
+man ~ means manual
+ctrl+l clean the terminal
