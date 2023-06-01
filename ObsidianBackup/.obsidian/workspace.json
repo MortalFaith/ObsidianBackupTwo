@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "21c1698d30928ed8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,7 +206,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7020a19941fc0396",
+  "active": "21c1698d30928ed8",
   "lastOpenFiles": [
     "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
     "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
