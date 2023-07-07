@@ -1,0 +1,2 @@
+1.win11 powershell打开neovim后边框不整齐
+设置-呈现-打开使用新的文本呈现器

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self-CS/李宏毅机器学习课程/Lecture 1.md",
+                "file": "Self-CS/neovim踩坑实录.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
+                "file": "Self-CS/neovim踩坑实录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
+                "file": "Self-CS/neovim踩坑实录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self-CS/The Missing Semester of Your CS Education/Lec.1.md"
+                "file": "Self-CS/neovim踩坑实录.md"
               }
             }
           },
@@ -203,13 +203,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3b5ad4661cbd9ca7",
+  "active": "7020a19941fc0396",
   "lastOpenFiles": [
+    "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
+    "Self-CS/neovim踩坑实录.md",
     "未命名.canvas",
     "Self-CS/CS61A/Notes/Lec.3 Control Q&A.md",
     "Self-CS/CS61A/Notes/Lec.2 Functions.md",
     "Self-CS/李宏毅机器学习课程/Lecture 1.md",
-    "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
     "Self-CS/如何有效地报告 Bug.md",
     "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
     "Self-CS/The Missing Semester of Your CS Education/未命名 1.md",
