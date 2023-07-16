@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self-CS/neovim踩坑实录.md",
+                "file": "ST&LT Task/2023-4-W2 plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85ed408d69052d8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ST&LT Task/未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-CS/neovim踩坑实录.md",
+                "file": "ST&LT Task/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-CS/neovim踩坑实录.md",
+                "file": "ST&LT Task/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self-CS/neovim踩坑实录.md"
+                "file": "ST&LT Task/未命名.md"
               }
             }
           },
@@ -203,16 +215,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7020a19941fc0396",
+  "active": "379add9916a8ba23",
   "lastOpenFiles": [
-    "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
+    "ST&LT Task/2023-4-W2 plan.md",
+    "ST&LT Task/未命名.md",
     "Self-CS/neovim踩坑实录.md",
+    "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
+    "Self-CS/如何有效地报告 Bug.md",
+    "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
     "未命名.canvas",
     "Self-CS/CS61A/Notes/Lec.3 Control Q&A.md",
     "Self-CS/CS61A/Notes/Lec.2 Functions.md",
     "Self-CS/李宏毅机器学习课程/Lecture 1.md",
-    "Self-CS/如何有效地报告 Bug.md",
-    "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
     "Self-CS/The Missing Semester of Your CS Education/未命名 1.md",
     "Self-CS/CS61A/Textbook/1.4 Designing Functions.md",
     "Self-CS/The Missing Semester of Your CS Education",
@@ -228,7 +242,6 @@
     "Pics/Pasted image 20230504223417.png",
     "Pics/Pasted image 20230504222832.png",
     "ST&LT Task/2023-5-W1 plan.md",
-    "ST&LT Task/2023-4-W2 plan.md",
     "Pics/Pasted image 20230412155421.png",
     "Pics/Pasted image 20230412160451.png",
     "Pics/Pasted image 20230412160950.png",
