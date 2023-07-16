@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ST&LT Task/未命名.md",
+                "file": "ST&LT Task/s-0001 让工具适应人——vim.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ST&LT Task/未命名.md",
+                "file": "ST&LT Task/s-0001 让工具适应人——vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ST&LT Task/未命名.md",
+                "file": "ST&LT Task/s-0001 让工具适应人——vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ST&LT Task/未命名.md"
+                "file": "ST&LT Task/s-0001 让工具适应人——vim.md"
               }
             }
           },
@@ -215,10 +215,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "379add9916a8ba23",
+  "active": "85ed408d69052d8f",
   "lastOpenFiles": [
     "ST&LT Task/2023-4-W2 plan.md",
-    "ST&LT Task/未命名.md",
+    "ST&LT Task/s-0001 让工具适应人——vim.md",
     "Self-CS/neovim踩坑实录.md",
     "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
     "Self-CS/如何有效地报告 Bug.md",
