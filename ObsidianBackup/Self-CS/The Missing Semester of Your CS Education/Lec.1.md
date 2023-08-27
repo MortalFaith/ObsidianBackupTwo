@@ -17,3 +17,6 @@ mkdir "My Photo"C
 man ~ means manual
 ctrl+l clean the terminal
 $_ means the last argument 
+!! means the last centence
+$? means the value of last centence
+|| and && means if the value before
