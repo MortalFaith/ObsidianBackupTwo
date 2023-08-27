@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-5-W1 plan.md",
+                "file": "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-5-W1 plan.md",
+                "file": "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-5-W1 plan.md",
+                "file": "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-5-W1 plan.md"
+                "file": "Self-CS/The Missing Semester of Your CS Education/Lec.1.md"
               }
             }
           },
@@ -229,8 +229,8 @@
   },
   "active": "73fcbdd97f5b81dc",
   "lastOpenFiles": [
-    "ST&LT Task/2023-4-W1 plan.md",
     "2023-5-W1 plan.md",
+    "ST&LT Task/2023-4-W1 plan.md",
     "Self-CS/neovim踩坑实录.md",
     "未命名",
     "ST&LT Task/s-0001 让工具适应人——vim.md",

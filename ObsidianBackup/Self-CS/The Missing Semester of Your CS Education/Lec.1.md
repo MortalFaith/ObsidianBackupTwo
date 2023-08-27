@@ -16,3 +16,4 @@ rm can't remove a directory
 mkdir "My Photo"C
 man ~ means manual
 ctrl+l clean the terminal
+$_ means the last argument 
