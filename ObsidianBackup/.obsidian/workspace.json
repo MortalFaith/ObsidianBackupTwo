@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ST&LT Task/s-0001 让工具适应人——vim.md",
+                "file": "Self-CS/neovim踩坑实录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73fcbdd97f5b81dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-5-W1 plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ST&LT Task/s-0001 让工具适应人——vim.md",
+                "file": "2023-5-W1 plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ST&LT Task/s-0001 让工具适应人——vim.md",
+                "file": "2023-5-W1 plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ST&LT Task/s-0001 让工具适应人——vim.md"
+                "file": "2023-5-W1 plan.md"
               }
             }
           },
@@ -215,11 +227,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "85ed408d69052d8f",
+  "active": "73fcbdd97f5b81dc",
   "lastOpenFiles": [
-    "ST&LT Task/2023-4-W2 plan.md",
-    "ST&LT Task/s-0001 让工具适应人——vim.md",
+    "ST&LT Task/2023-4-W1 plan.md",
+    "2023-5-W1 plan.md",
     "Self-CS/neovim踩坑实录.md",
+    "未命名",
+    "ST&LT Task/s-0001 让工具适应人——vim.md",
+    "ST&LT Task/2023-4-W2 plan.md",
     "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
     "Self-CS/如何有效地报告 Bug.md",
     "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
@@ -245,7 +260,6 @@
     "Pics/Pasted image 20230412155421.png",
     "Pics/Pasted image 20230412160451.png",
     "Pics/Pasted image 20230412160950.png",
-    "ST&LT Task/2023-4-W1 plan.md",
     "Self-CS/李宏毅机器学习课程",
     "Self-CS/The Missing Semester of Your CS Education",
     "未命名/未命名",
@@ -259,7 +273,6 @@
     "Pics/C1ABB548DAACB525FA8B3E6F9C839450.png",
     "Pics/53C858FD34D8D40E45B56B427A309F69.png",
     "Pics/888D0B64BB85245F1BB470E4195A5B07.png",
-    "Pics",
     "Diary/2023-01-24 第一天使用Obsidian.md"
   ]
 }

@@ -3,3 +3,4 @@
 on my posh手册的font里有要求····？
 2.安装pyright时 # Npm failed with return code: 4294963248
 管理员运行（npm安装需要权限？）
+3.用qt版本
