@@ -74,9 +74,19 @@
                 "currentVersion": "1.4.13"
               }
             }
+          },
+          {
+            "id": "d7371f56a5e49544",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -247,7 +257,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "12d9374afcea10c2",
+  "active": "d7371f56a5e49544",
   "lastOpenFiles": [
     "2023-5-W1 plan.md",
     "ST&LT Task/2023-4-W1 plan.md",
