@@ -79,9 +79,11 @@
             "id": "d7371f56a5e49544",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
