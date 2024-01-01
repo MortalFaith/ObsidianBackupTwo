@@ -86,21 +86,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "63e10fa358df7e60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -271,7 +259,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "63e10fa358df7e60",
+  "active": "d7371f56a5e49544",
   "lastOpenFiles": [
     "2023-5-W1 plan.md",
     "ST&LT Task/2023-4-W1 plan.md",
