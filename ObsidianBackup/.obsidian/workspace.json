@@ -4,91 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "90b34e22fa1d9341",
+        "id": "fd11d9896049d03b",
         "type": "tabs",
         "children": [
           {
-            "id": "bf7a22516b1f5606",
+            "id": "afb23cda63dbe28a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7020a19941fc0396",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ST&LT Task/2023-4-W2 plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85ed408d69052d8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self-CS/neovim踩坑实录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73fcbdd97f5b81dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6972ee1130e06aea",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
-          },
-          {
-            "id": "12d9374afcea10c2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "d7371f56a5e49544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
+                "file": "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
+                "file": "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
+                "file": "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self-CS/The Missing Semester of Your CS Education/Lec.1.md"
+                "file": "Self-CS/How-To-Ask-Questions-The-Smart-Way.md"
               }
             }
           },
@@ -259,17 +190,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d7371f56a5e49544",
+  "active": "afb23cda63dbe28a",
   "lastOpenFiles": [
+    "Self-CS/neovim踩坑实录.md",
+    "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
+    "ST&LT Task/2023-4-W2 plan.md",
     "2023-5-W1 plan.md",
     "ST&LT Task/2023-4-W1 plan.md",
-    "Self-CS/neovim踩坑实录.md",
     "未命名",
     "ST&LT Task/s-0001 让工具适应人——vim.md",
-    "ST&LT Task/2023-4-W2 plan.md",
     "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
     "Self-CS/如何有效地报告 Bug.md",
-    "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
     "未命名.canvas",
     "Self-CS/CS61A/Notes/Lec.3 Control Q&A.md",
     "Self-CS/CS61A/Notes/Lec.2 Functions.md",
