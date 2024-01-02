@@ -11,3 +11,7 @@
 ![[Pasted image 20240102082213.png]]
 但是容易引发window过大/over-fitting的问题
 3.2self-attention
+考虑整个sequence的内容，然后对每个输入向量输出新的向量，再丢入FC
+可以多层堆叠
+![[Pasted image 20240102082640.png]]
+3.2.1如何计算self-attention的一个输出a1
