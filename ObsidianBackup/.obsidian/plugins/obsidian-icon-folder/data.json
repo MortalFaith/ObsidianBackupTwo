@@ -5,7 +5,10 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "IbRectangleOnRectangleVertical",
+      "IbFolder"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -19,5 +22,8 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
-  }
+  },
+  "ST&LT Task": "IbFolder",
+  "Self-CS": "IbFolder",
+  "Pics": "IbFolder"
 }
