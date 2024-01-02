@@ -18,5 +18,7 @@
 3.3.1计算a1与其他向量的关联度α
 ![[Pasted image 20240102083331.png]]
 方法有很多，这里采用Dot-product
-对每个
+对每个向量，计算和它自己以及其他向量的α，再过一个Soft-max（公式在上方）
 ![[Pasted image 20240102083656.png]]
+再用一个新的W<sup>a</sup>
+![[Pasted image 20240102085335.png]]
