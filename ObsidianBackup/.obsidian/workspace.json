@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2023-01-24 第一天使用Obsidian.md",
+                "file": "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023-01-24 第一天使用Obsidian.md",
+                "file": "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023-01-24 第一天使用Obsidian.md",
+                "file": "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2023-01-24 第一天使用Obsidian.md"
+                "file": "Self-CS/李宏毅机器学习课程/第四节 self-attention.md"
               }
             }
           },
@@ -190,8 +190,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "379add9916a8ba23",
+  "active": "afb23cda63dbe28a",
   "lastOpenFiles": [
+    "Self-CS/如何有效地报告 Bug.md",
+    "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
+    "Diary/2023-01-24 第一天使用Obsidian.md",
     "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
     "Self-CS/李宏毅机器学习课程/Lecture 1.md",
     "ST&LT Task/2023-5-W1 plan 1.md",
@@ -202,18 +205,15 @@
     "Self-CS/CS61A/Notes/Lec.2 Functions.md",
     "Self-CS/CS61A/Notes/Lec.3 Control Q&A.md",
     "Diary/2023-05-04 第一次日记？.md",
-    "Diary/2023-01-24 第一天使用Obsidian.md",
     "Pics/Pasted image 20240102083656.png",
     "Pics/Pasted image 20240102083331.png",
     "Pics/Pasted image 20240102082640.png",
     "Pics/Pasted image 20240102082213.png",
     "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
     "Self-CS/neovim踩坑实录.md",
-    "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
     "ST&LT Task/2023-4-W2 plan.md",
     "ST&LT Task/2023-4-W1 plan.md",
     "未命名",
-    "Self-CS/如何有效地报告 Bug.md",
     "未命名.canvas",
     "Self-CS/The Missing Semester of Your CS Education/未命名 1.md",
     "Self-CS/CS61A/Textbook/1.4 Designing Functions.md",

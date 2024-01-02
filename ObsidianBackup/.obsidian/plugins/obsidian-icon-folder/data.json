@@ -6,6 +6,9 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiMdbook",
+      "IbAcademicBook",
+      "FabSearchengin",
       "IbRectangleOnRectangleVertical",
       "IbFolder"
     ],
@@ -23,7 +26,33 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
   },
-  "ST&LT Task": "IbFolder",
+  "ST&LT Task": {
+    "iconName": "IbFolder",
+    "inheritanceIcon": "IbCalendar"
+  },
   "Self-CS": "IbFolder",
-  "Pics": "IbFolder"
+  "Pics": {
+    "iconName": "IbFolder",
+    "inheritanceIcon": "IbPhoto"
+  },
+  "Diary": "FabSearchengin",
+  "Self-CS/CS61A/Textbook": {
+    "iconName": null,
+    "inheritanceIcon": "IbAcademicBook"
+  },
+  "Self-CS/CS61A/Notes": {
+    "iconName": null,
+    "inheritanceIcon": "SiMdbook"
+  },
+  "Self-CS/李宏毅机器学习课程": {
+    "iconName": null,
+    "inheritanceIcon": "SiMdbook"
+  },
+  "Self-CS/The Missing Semester of Your CS Education": {
+    "iconName": null,
+    "inheritanceIcon": "SiMdbook"
+  },
+  "Self-CS/如何有效地报告 Bug.md": "IbAcademicBook",
+  "Self-CS/How-To-Ask-Questions-The-Smart-Way.md": "IbAcademicBook",
+  "Self-CS/neovim踩坑实录.md": "SiMdbook"
 }
