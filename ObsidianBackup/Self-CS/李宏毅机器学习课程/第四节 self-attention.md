@@ -14,4 +14,7 @@
 考虑整个sequence的内容，然后对每个输入向量输出新的向量，再丢入FC
 可以多层堆叠
 ![[Pasted image 20240102082640.png]]
-3.2.1如何计算self-attention的一个输出a1
+3.3如何计算self-attention的一个输出a1
+3.3.1计算a1与其他向量的关联度α
+![[Pasted image 20240102083331.png]]
+方法有很多，这里采用Dot-product
