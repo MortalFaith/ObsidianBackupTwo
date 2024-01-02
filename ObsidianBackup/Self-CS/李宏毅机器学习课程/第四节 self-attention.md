@@ -22,4 +22,3 @@
 ![[Pasted image 20240102083656.png]]
 再用一个新的W<sup>a</sup>乘上a<sup>1</sup>和α，最后求和得到b<sup>1</sup>
 ![[Pasted image 20240102085335.png]]![[Pasted image 20240102085941.png]]
-test^{a}

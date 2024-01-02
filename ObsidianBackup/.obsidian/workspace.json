@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
+                "file": "ST&LT Task/2023-5-W1 plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
+                "file": "ST&LT Task/2023-5-W1 plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
+                "file": "ST&LT Task/2023-5-W1 plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self-CS/李宏毅机器学习课程/第四节 self-attention.md"
+                "file": "ST&LT Task/2023-5-W1 plan.md"
               }
             }
           },
@@ -192,6 +192,8 @@
   },
   "active": "afb23cda63dbe28a",
   "lastOpenFiles": [
+    "ST&LT Task/s-0001 让工具适应人——vim.md",
+    "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
     "Pics/Pasted image 20240102085941.png",
     "Pics/Pasted image 20240102085335.png",
     "Self-CS/李宏毅机器学习课程/Lecture 1.md",
@@ -199,7 +201,6 @@
     "Self-CS/CS61A/Notes/Lec.3 Control Q&A.md",
     "Diary/2023-05-04 第一次日记？.md",
     "Diary/2023-01-24 第一天使用Obsidian.md",
-    "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
     "Pics/Pasted image 20240102083656.png",
     "Pics/Pasted image 20240102083331.png",
     "Pics/Pasted image 20240102082640.png",
@@ -211,7 +212,6 @@
     "2023-5-W1 plan.md",
     "ST&LT Task/2023-4-W1 plan.md",
     "未命名",
-    "ST&LT Task/s-0001 让工具适应人——vim.md",
     "Self-CS/如何有效地报告 Bug.md",
     "未命名.canvas",
     "Self-CS/The Missing Semester of Your CS Education/未命名 1.md",
@@ -229,7 +229,6 @@
     "Pics/Pasted image 20230504222832.png",
     "ST&LT Task/2023-5-W1 plan.md",
     "Pics/Pasted image 20230412155421.png",
-    "Pics/Pasted image 20230412160451.png",
     "Self-CS/李宏毅机器学习课程",
     "Self-CS/The Missing Semester of Your CS Education",
     "未命名/未命名",

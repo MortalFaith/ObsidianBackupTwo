@@ -4,5 +4,7 @@
   "calendar",
   "obsidian-git",
   "obsidian-tasks-plugin",
-  "cm-chs-patch"
+  "cm-chs-patch",
+  "obsidian-icon-folder",
+  "cm-editor-syntax-highlight-obsidian"
 ]
