@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiReadme",
       "SiMdbook",
       "IbAcademicBook",
       "FabSearchengin",
-      "IbRectangleOnRectangleVertical",
-      "IbFolder"
+      "IbRectangleOnRectangleVertical"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -54,5 +54,9 @@
   },
   "Self-CS/如何有效地报告 Bug.md": "IbAcademicBook",
   "Self-CS/How-To-Ask-Questions-The-Smart-Way.md": "IbAcademicBook",
-  "Self-CS/neovim踩坑实录.md": "SiMdbook"
+  "Self-CS/neovim踩坑实录.md": "SiMdbook",
+  "读书笔记": {
+    "iconName": "SiReadme",
+    "inheritanceIcon": "SiReadme"
+  }
 }
