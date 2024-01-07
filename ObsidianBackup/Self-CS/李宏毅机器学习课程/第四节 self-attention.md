@@ -30,5 +30,6 @@ q、k、v：
 ![[Pasted image 20240107193457.png]]
 最终可得：
 ![[Pasted image 20240107194256.png]]
+![[Pasted image 20240107194442.png]]
 
 
