@@ -42,4 +42,8 @@ q、k、v：
 为每个位子加一个独特的向量e<sup>i</sup>
 ![[Pasted image 20240107222106.png]]
 其中e<sup>i</sup>的生成方式可以多种多样
-***Truncated S
+***Truncated Self-attention***
+由于S-a中A<sup>i</sup>（关联度）的大小是向量数量L的平方，为了防止L过大，可以只考虑前后一定范围内的向量，也就是Truncated Self-attention
+![[Pasted image 20240107222906.png]]
+***影像识别与S-a***
+可以把每个xiang'liang
