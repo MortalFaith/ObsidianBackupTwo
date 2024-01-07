@@ -22,7 +22,7 @@
 ![[Pasted image 20240102083656.png]]
 再用一个新的W<sup>v</sup>乘上a<sup>1</sup>和α，最后求和得到b<sup>1</sup>
 ![[Pasted image 20240102085335.png]]![[Pasted image 20240102085941.png]]
-接下来把计算过程矩阵化
+3.3.2接下来把计算过程矩阵化
 q、k、v：
 ![[Pasted image 20240107193406.png]]
 α：
@@ -32,4 +32,6 @@ q、k、v：
 ![[Pasted image 20240107194256.png]]
 ![[Pasted image 20240107194442.png]]
 
+![[Pasted image 20240107220853.png]]
+3.3.3计算多个head的情况
 
