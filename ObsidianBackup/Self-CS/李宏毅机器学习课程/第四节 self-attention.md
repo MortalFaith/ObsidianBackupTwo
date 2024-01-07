@@ -34,4 +34,6 @@ q、k、v：
 
 ![[Pasted image 20240107220853.png]]
 3.3.3计算多个head的情况
+对于每个q、k、v，用两个矩阵相乘得到q<sup>i,1</sup>、···（以此类推）
+![[Pasted image 20240107221024.png]]
 
