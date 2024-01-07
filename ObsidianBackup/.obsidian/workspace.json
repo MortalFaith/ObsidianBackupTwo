@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书笔记/It Doesn't Have To Be Crazy At Work.md",
+                "file": "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/It Doesn't Have To Be Crazy At Work.md",
+                "file": "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记/It Doesn't Have To Be Crazy At Work.md",
+                "file": "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/It Doesn't Have To Be Crazy At Work.md"
+                "file": "Self-CS/李宏毅机器学习课程/第四节 self-attention.md"
               }
             }
           },
@@ -205,14 +205,14 @@
   },
   "active": "f4f03beb6b811f35",
   "lastOpenFiles": [
-    "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
+    "Self-CS/李宏毅机器学习课程/Lecture 1.md",
     "读书笔记/It Doesn't Have To Be Crazy At Work.md",
+    "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
     "未命名",
     "读书笔记",
     "Self-CS/如何有效地报告 Bug.md",
     "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
     "Diary/2023-01-24 第一天使用Obsidian.md",
-    "Self-CS/李宏毅机器学习课程/Lecture 1.md",
     "ST&LT Task/2023-5-W1 plan 1.md",
     "ST&LT Task/2023-5-W1 plan.md",
     "ST&LT Task/s-0001 让工具适应人——vim.md",
