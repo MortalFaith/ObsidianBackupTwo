@@ -46,4 +46,7 @@ q、k、v：
 由于S-a中A<sup>i</sup>（关联度）的大小是向量数量L的平方，为了防止L过大，可以只考虑前后一定范围内的向量，也就是Truncated Self-attention
 ![[Pasted image 20240107222906.png]]
 ***影像识别与S-a***
-可以把每个xiang'liang
+可以把每个像素点看成一个三维的向量，这样整张图就是一个大的vector set
+![[Pasted image 20240107223131.png]]
+***和其他算法的对比***
+相比于CNN，CNN弹性更小，在数据量小时占优，S-afan'hi
