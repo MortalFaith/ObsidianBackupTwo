@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "373589a2617d7b08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self-CS/李宏毅机器学习课程/第五节 Transformer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
+                "file": "Self-CS/李宏毅机器学习课程/第五节 Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
+                "file": "Self-CS/李宏毅机器学习课程/第五节 Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self-CS/李宏毅机器学习课程/第四节 self-attention.md"
+                "file": "Self-CS/李宏毅机器学习课程/第五节 Transformer.md"
               }
             }
           },
@@ -203,8 +215,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f4f03beb6b811f35",
+  "active": "373589a2617d7b08",
   "lastOpenFiles": [
+    "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
+    "Self-CS/李宏毅机器学习课程/第五节 Transformer.md",
+    "Self-CS/李宏毅机器学习课程/Lecture 1.md",
+    "Pics/Pasted image 20240107224118.png",
     "Pics/Pasted image 20240107223131.png",
     "Pics/Pasted image 20240107222906.png",
     "Pics/Pasted image 20240107222106.png",
@@ -214,11 +230,7 @@
     "Pics/Pasted image 20240107194442.png",
     "Pics/Pasted image 20240107194256.png",
     "Pics/Pasted image 20240107194231.png",
-    "Pics/Pasted image 20240107194202.png",
-    "Pics/Pasted image 20240107193457.png",
-    "Self-CS/李宏毅机器学习课程/Lecture 1.md",
     "读书笔记/It Doesn't Have To Be Crazy At Work.md",
-    "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
     "未命名",
     "读书笔记",
     "Self-CS/如何有效地报告 Bug.md",
