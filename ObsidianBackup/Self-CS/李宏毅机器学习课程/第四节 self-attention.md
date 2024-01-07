@@ -18,8 +18,13 @@
 3.3.1计算a1与其他向量的关联度α
 ![[Pasted image 20240102083331.png]]
 方法有很多，这里采用Dot-product
-对每个向量，计算和它自己以及其他向量的α，再过一个Soft-max（公式在上方）                                            
+对每个向量，计算和它自己以及其他向量的α（q），再过一个Soft-max（公式在上方）                                            
 ![[Pasted image 20240102083656.png]]
 再用一个新的W<sup>v</sup>乘上a<sup>1</sup>和α，最后求和得到b<sup>1</sup>
 ![[Pasted image 20240102085335.png]]![[Pasted image 20240102085941.png]]
+接下来把计算过程矩阵化
+q、k、v：
+![[Pasted image 20240107193406.png]]
+
+![[Pasted image 20240107193457.png]]
 
