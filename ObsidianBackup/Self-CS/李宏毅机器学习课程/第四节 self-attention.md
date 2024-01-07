@@ -38,3 +38,8 @@ q、k、v：
 ![[Pasted image 20240107221024.png]]
 最终得到b
 ![[Pasted image 20240107221656.png]]
+***添加位置讯息***
+为每个位子加一个独特的向量e<sup>i</sup>
+![[Pasted image 20240107222106.png]]
+其中e<sup>i</sup>的生成方式可以多种多样
+***Truncated S
