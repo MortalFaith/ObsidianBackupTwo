@@ -6,3 +6,10 @@
 **流程**
 S-a通过r架构得到的输出被norm之后丢到Fully Connected Network里去，再按r架构得到输出、norm，最后得到结果
 
+按transformer的图例来解释：
+![[Pasted image 20240108221819.png]]
+input先加上位置信息，然后经过上面的流程（其中的S-a在这里被特定成了Multi-Head Attention）
+BERT就是transformer的encoder
+实际上，更换原始transformer的encoder中的顺序可能效果更好：
+![[Pasted image 20240108222120.png]]
+***Decoder***
