@@ -12,4 +12,6 @@ input先加上位置信息，然后经过上面的流程（其中的S-a在这里
 BERT就是transformer的encoder
 实际上，更换原始transformer的encoder中的顺序可能效果更好：
 ![[Pasted image 20240108222120.png]]
-***Decoder***
+***Decoder(autoregressize)***
+![[Pasted image 20240109085622.png]]
+首先需要输入一个开始信号（
