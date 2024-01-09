@@ -24,3 +24,6 @@ BERT就是transformer的encoder
 ***如何结束***
 ![[Pasted image 20240109090919.png]]
 设置可供机器输出的End，标志着生成结束，从而使Transformer自己觉得输出长度。
+***encoder和decoder之间的衔接***
+![[Pasted image 20240109091358.png]]
+将decoder的MS-a乘上矩阵得到的q与Encoder中得到的k、v进行计算得到v，最后丢入Fully Connected Network里，ye
