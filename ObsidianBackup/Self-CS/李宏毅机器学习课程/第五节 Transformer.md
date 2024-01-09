@@ -30,4 +30,9 @@ BERT就是transformer的encoder
 可以有多种方式：
 ![[Pasted image 20240109092017.png]]
 ***Training***
+![[Pasted image 20240109092216.png]]
+把标答做成One-Hot，然后计算它和输出的cross entropy
+实际上等同于分类问题
+
+训练的时候会输入正确答案：teacher forcing
 
