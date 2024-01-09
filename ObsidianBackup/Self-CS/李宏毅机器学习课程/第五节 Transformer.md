@@ -17,3 +17,7 @@ BERT就是transformer的encoder
 首先需要输入一个开始信号begin，然后Decoder会输出一个向量，其大小为供机器输出的所有可能字符（串）的数量，同时输出前会做softmax，因此得到的向量里是distribution（总和为1）
 ![[Pasted image 20240109085855.png]]
 最终的结果是输出的向量中得分最高的一个字符（串），然后这个结果作为输入再过一次decoder，如此反复。
+***Masked S-a***
+![[Pasted image 20240109090219.png]]
+在计算当前位置（a<sup>2</sup>）时，只考虑左边的向量
+（a<sup>1</sup>）
