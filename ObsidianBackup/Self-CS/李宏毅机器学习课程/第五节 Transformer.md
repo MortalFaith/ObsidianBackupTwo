@@ -14,4 +14,6 @@ BERT就是transformer的encoder
 ![[Pasted image 20240108222120.png]]
 ***Decoder(autoregressize)***
 ![[Pasted image 20240109085622.png]]
-首先需要输入一个开始信号（
+首先需要输入一个开始信号begin，然后Decoder会输出一个向量，其大小为供机器输出的所有可能字符（串）的数量，同时输出前会做softmax，因此得到的向量里是distribution（总和为1）
+![[Pasted image 20240109085855.png]]
+最终的结果是输出的向量中得分最高的一个字符（串），然后这个结果作为输入再过一次decoder，如此反复。
