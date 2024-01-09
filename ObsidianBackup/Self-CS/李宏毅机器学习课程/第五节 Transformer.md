@@ -21,3 +21,6 @@ BERT就是transformer的encoder
 ![[Pasted image 20240109090219.png]]
 在计算当前位置（a<sup>2</sup>）时，只考虑左边的向量
 （a<sup>1</sup>）
+***如何结束***
+![[Pasted image 20240109090919.png]]
+设置可供机器输出的End，标志着生成结束，从而使Transformer自己觉得输出长度。
