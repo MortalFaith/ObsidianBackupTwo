@@ -58,5 +58,9 @@
   "读书笔记": {
     "iconName": "SiReadme",
     "inheritanceIcon": "SiReadme"
+  },
+  "学科笔记": {
+    "iconName": "SiReadme",
+    "inheritanceIcon": "SiReadme"
   }
 }
