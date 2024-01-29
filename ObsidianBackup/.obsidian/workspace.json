@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fd11d9896049d03b",
+        "id": "f94fa4387ede4dbf",
         "type": "tabs",
         "children": [
           {
-            "id": "afb23cda63dbe28a",
+            "id": "1a60d598e0f8c82c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
+                "file": "学科笔记/神谕.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "373589a2617d7b08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学科笔记/离散数学2.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学科笔记/离散数学2.md",
+                "file": "学科笔记/神谕.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学科笔记/离散数学2.md",
+                "file": "学科笔记/神谕.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学科笔记/离散数学2.md"
+                "file": "学科笔记/神谕.md"
               }
             }
           },
@@ -206,11 +193,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "373589a2617d7b08",
+  "active": "1a60d598e0f8c82c",
   "lastOpenFiles": [
+    "Diary/2024-01-29.md",
     "学科笔记/神谕.md",
-    "Pics/Pasted image 20240126112044.png",
     "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
+    "学科笔记/离散数学2.md",
+    "Pics/Pasted image 20240126112044.png",
     "Pics/1d6232dd7c17f2ce968a32957045d5a.jpg",
     "Pics/Pasted image 20240125225015.png",
     "Pics/90831b7e1060e0f17d556cf0b385f2d.jpg",
@@ -220,7 +209,6 @@
     "Pics/Pasted image 20240125222746.png",
     "Pics/697d4af0b879720193ac112d7f81dfb.jpg",
     "Pics/Pasted image 20240125220205.png",
-    "学科笔记/离散数学2.md",
     "学科笔记",
     "Self-CS/李宏毅机器学习课程/第五节 Transformer.md",
     "Self-CS/李宏毅机器学习课程/Lecture 1.md",
