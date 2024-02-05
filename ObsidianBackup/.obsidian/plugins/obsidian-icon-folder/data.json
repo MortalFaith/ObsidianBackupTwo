@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiCookiecutter",
       "SiReadme",
       "SiMdbook",
       "IbAcademicBook",
-      "FabSearchengin",
-      "IbRectangleOnRectangleVertical"
+      "FabSearchengin"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -62,5 +62,6 @@
   "学科笔记": {
     "iconName": "SiReadme",
     "inheritanceIcon": "SiReadme"
-  }
+  },
+  "菜谱": "SiCookiecutter"
 }

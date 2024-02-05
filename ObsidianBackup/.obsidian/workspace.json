@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f94fa4387ede4dbf",
+        "id": "112c590be689a6f7",
         "type": "tabs",
         "children": [
           {
-            "id": "1a60d598e0f8c82c",
+            "id": "8341c31ae287f142",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学科笔记/神谕.md",
+                "file": "菜谱/Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "184109defdd3d8ae",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学科笔记/神谕.md",
+                "file": "菜谱/Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学科笔记/神谕.md",
+                "file": "菜谱/Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学科笔记/神谕.md"
+                "file": "菜谱/Day 1.md"
               }
             }
           },
@@ -193,10 +192,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a60d598e0f8c82c",
+  "active": "8341c31ae287f142",
   "lastOpenFiles": [
-    "Diary/2024-01-29.md",
+    "菜谱/Day 1.md",
+    "菜谱",
     "学科笔记/神谕.md",
+    "Diary/2024-01-29.md",
     "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
     "学科笔记/离散数学2.md",
     "Pics/Pasted image 20240126112044.png",
@@ -234,13 +235,11 @@
     "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md",
     "Self-CS/CS61A/Textbook/1.5 Control.md",
     "Self-CS/CS61A/Textbook/1.3 Defining New Functions.md",
-    "Self-CS/CS61A/Textbook/1.1 Getting Started.md",
     "Self-CS/李宏毅机器学习课程",
     "Self-CS/The Missing Semester of Your CS Education",
     "未命名/未命名",
     "ST&LT Task",
     "Self-CS/CS61A/Textbook",
-    "Self-CS/CS61A/Notes",
-    "Self-CS/CS61A"
+    "Self-CS/CS61A/Notes"
   ]
 }
