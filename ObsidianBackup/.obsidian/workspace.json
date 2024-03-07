@@ -44,12 +44,14 @@
             }
           },
           {
-            "id": "c7cea21412cf509e",
+            "id": "5cbce4d2a00d10c7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "ST&LT Task/2024-3-W1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -148,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "菜谱/Day3.md",
+                "file": "ST&LT Task/2024-3-W1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "菜谱/Day3.md",
+                "file": "ST&LT Task/2024-3-W1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "菜谱/Day3.md"
+                "file": "ST&LT Task/2024-3-W1.md"
               }
             }
           },
@@ -227,10 +229,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7cea21412cf509e",
+  "active": "5cbce4d2a00d10c7",
   "lastOpenFiles": [
-    "菜谱/Day2.md",
+    "ST&LT Task/2023-5-W1 plan 1.md",
+    "ST&LT Task/2024-3-W1.md",
     "菜谱/Day3.md",
+    "读书笔记/未命名",
+    "菜谱/Day2.md",
     "菜谱/Day 1.md",
     "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
     "菜谱",
@@ -256,7 +261,6 @@
     "Self-CS/如何有效地报告 Bug.md",
     "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
     "Diary/2023-01-24 第一天使用Obsidian.md",
-    "ST&LT Task/2023-5-W1 plan 1.md",
     "ST&LT Task/2023-5-W1 plan.md",
     "ST&LT Task/s-0001 让工具适应人——vim.md",
     "Self-CS/CS61A/Notes/Lec.2 Functions.md",
@@ -269,12 +273,10 @@
     "Self-CS/The Missing Semester of Your CS Education/未命名 1.md",
     "Self-CS/CS61A/Textbook/1.4 Designing Functions.md",
     "Self-CS/The Missing Semester of Your CS Education",
-    "Self-CS/CS61A/Textbook/1.6 Higher-Order Functions.md",
     "Self-CS/李宏毅机器学习课程",
     "Self-CS/The Missing Semester of Your CS Education",
     "未命名/未命名",
     "ST&LT Task",
-    "Self-CS/CS61A/Textbook",
-    "Self-CS/CS61A/Notes"
+    "Self-CS/CS61A/Textbook"
   ]
 }
