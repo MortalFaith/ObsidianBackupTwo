@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7cea21412cf509e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -217,7 +227,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f1f2ca4ce23f9c0",
+  "active": "c7cea21412cf509e",
   "lastOpenFiles": [
     "菜谱/Day2.md",
     "菜谱/Day3.md",
