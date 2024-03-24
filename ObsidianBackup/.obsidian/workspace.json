@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实践部记录/点石成金项目梳理.md",
+                "file": "实践部记录/点石成金项目梳理-初版.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实践部记录/点石成金项目梳理.md",
+                "file": "实践部记录/点石成金项目梳理-初版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实践部记录/点石成金项目梳理.md",
+                "file": "实践部记录/点石成金项目梳理-初版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实践部记录/点石成金项目梳理.md"
+                "file": "实践部记录/点石成金项目梳理-初版.md"
               }
             }
           },
@@ -243,8 +243,9 @@
   },
   "active": "a9ca908eecd63ed9",
   "lastOpenFiles": [
-    "Self-CS/neovim踩坑实录.md",
     "实践部记录/点石成金项目梳理.md",
+    "实践部记录/点石成金项目梳理-初版.md",
+    "Self-CS/neovim踩坑实录.md",
     "实践部记录",
     "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
     "ST&LT Task/2024-3-W1.md",
@@ -284,7 +285,6 @@
     "ST&LT Task/2023-4-W2 plan.md",
     "ST&LT Task/2023-4-W1 plan.md",
     "未命名.canvas",
-    "Self-CS/The Missing Semester of Your CS Education/未命名 1.md",
     "Self-CS/The Missing Semester of Your CS Education",
     "Self-CS/李宏毅机器学习课程",
     "Self-CS/The Missing Semester of Your CS Education",
