@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ST&LT Task/2024-3-W1.md",
+                "file": "Self-CS/neovim踩坑实录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9ca908eecd63ed9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实践部记录/点石成金项目梳理.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ST&LT Task/2024-3-W1.md",
+                "file": "实践部记录/点石成金项目梳理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ST&LT Task/2024-3-W1.md",
+                "file": "实践部记录/点石成金项目梳理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ST&LT Task/2024-3-W1.md"
+                "file": "实践部记录/点石成金项目梳理.md"
               }
             }
           },
@@ -229,15 +241,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5cbce4d2a00d10c7",
+  "active": "a9ca908eecd63ed9",
   "lastOpenFiles": [
-    "ST&LT Task/2023-5-W1 plan 1.md",
+    "Self-CS/neovim踩坑实录.md",
+    "实践部记录/点石成金项目梳理.md",
+    "实践部记录",
+    "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
     "ST&LT Task/2024-3-W1.md",
+    "ST&LT Task/2023-5-W1 plan 1.md",
     "菜谱/Day3.md",
     "读书笔记/未命名",
     "菜谱/Day2.md",
     "菜谱/Day 1.md",
-    "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
     "菜谱",
     "学科笔记/神谕.md",
     "Diary/2024-01-29.md",
@@ -266,17 +281,14 @@
     "Self-CS/CS61A/Notes/Lec.2 Functions.md",
     "Self-CS/CS61A/Notes/Lec.3 Control Q&A.md",
     "Diary/2023-05-04 第一次日记？.md",
-    "Self-CS/neovim踩坑实录.md",
     "ST&LT Task/2023-4-W2 plan.md",
     "ST&LT Task/2023-4-W1 plan.md",
     "未命名.canvas",
     "Self-CS/The Missing Semester of Your CS Education/未命名 1.md",
-    "Self-CS/CS61A/Textbook/1.4 Designing Functions.md",
     "Self-CS/The Missing Semester of Your CS Education",
     "Self-CS/李宏毅机器学习课程",
     "Self-CS/The Missing Semester of Your CS Education",
     "未命名/未命名",
-    "ST&LT Task",
-    "Self-CS/CS61A/Textbook"
+    "ST&LT Task"
   ]
 }

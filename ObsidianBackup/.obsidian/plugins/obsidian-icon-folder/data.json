@@ -63,5 +63,6 @@
     "iconName": "SiReadme",
     "inheritanceIcon": "SiReadme"
   },
-  "菜谱": "SiCookiecutter"
+  "菜谱": "SiCookiecutter",
+  "实践部记录": "SiReadme"
 }
