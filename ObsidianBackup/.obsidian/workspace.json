@@ -71,9 +71,11 @@
             "id": "e184ed1eacc179f5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -172,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实践部记录/点石成金项目梳理-初版.md",
+                "file": "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实践部记录/点石成金项目梳理-初版.md",
+                "file": "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实践部记录/点石成金项目梳理-初版.md"
+                "file": "Self-CS/How-To-Ask-Questions-The-Smart-Way.md"
               }
             }
           },
@@ -253,10 +255,10 @@
   },
   "active": "e184ed1eacc179f5",
   "lastOpenFiles": [
+    "Self-CS/neovim踩坑实录.md",
     "实践部记录/点石成金项目梳理-初版.pdf",
     "实践部记录/点石成金项目梳理.md",
     "实践部记录/点石成金项目梳理-初版.md",
-    "Self-CS/neovim踩坑实录.md",
     "实践部记录",
     "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
     "ST&LT Task/2024-3-W1.md",
@@ -298,7 +300,6 @@
     "Self-CS/The Missing Semester of Your CS Education",
     "Self-CS/李宏毅机器学习课程",
     "Self-CS/The Missing Semester of Your CS Education",
-    "未命名/未命名",
-    "ST&LT Task"
+    "未命名/未命名"
   ]
 }
