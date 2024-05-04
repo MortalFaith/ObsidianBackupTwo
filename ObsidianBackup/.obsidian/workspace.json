@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "112c590be689a6f7",
+        "id": "b80bc291b650f783",
         "type": "tabs",
         "children": [
           {
-            "id": "8341c31ae287f142",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "菜谱/Day 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97abbb737194c086",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "菜谱/Day2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f1f2ca4ce23f9c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "菜谱/Day3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cbce4d2a00d10c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self-CS/neovim踩坑实录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9ca908eecd63ed9",
+            "id": "09e564badfce9a2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e184ed1eacc179f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
+                "file": "实践部记录/点石成金项目梳理-初版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
+                "file": "实践部记录/点石成金项目梳理-初版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self-CS/How-To-Ask-Questions-The-Smart-Way.md"
+                "file": "实践部记录/点石成金项目梳理-初版.md"
               }
             }
           },
@@ -253,20 +192,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e184ed1eacc179f5",
+  "active": "09e564badfce9a2a",
   "lastOpenFiles": [
-    "Self-CS/neovim踩坑实录.md",
-    "实践部记录/点石成金项目梳理-初版.pdf",
     "实践部记录/点石成金项目梳理.md",
     "实践部记录/点石成金项目梳理-初版.md",
-    "实践部记录",
     "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
+    "菜谱/Day 1.md",
+    "菜谱/Day2.md",
+    "菜谱/Day3.md",
+    "Self-CS/neovim踩坑实录.md",
+    "实践部记录/点石成金项目梳理-初版.pdf",
+    "实践部记录",
     "ST&LT Task/2024-3-W1.md",
     "ST&LT Task/2023-5-W1 plan 1.md",
-    "菜谱/Day3.md",
     "读书笔记/未命名",
-    "菜谱/Day2.md",
-    "菜谱/Day 1.md",
     "菜谱",
     "学科笔记/神谕.md",
     "Diary/2024-01-29.md",
