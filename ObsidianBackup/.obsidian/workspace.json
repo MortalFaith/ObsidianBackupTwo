@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e184ed1eacc179f5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -241,7 +251,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "379add9916a8ba23",
+  "active": "e184ed1eacc179f5",
   "lastOpenFiles": [
     "实践部记录/点石成金项目梳理-初版.pdf",
     "实践部记录/点石成金项目梳理.md",
