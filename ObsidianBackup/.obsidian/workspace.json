@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "184109defdd3d8ae",
@@ -193,7 +192,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c6069df958ce9a5",
+  "active": "379add9916a8ba23",
   "lastOpenFiles": [
     "学科笔记/触摸屏面临哪些挑战和困难？.md",
     "实践部记录/点石成金项目梳理-初版.md",
