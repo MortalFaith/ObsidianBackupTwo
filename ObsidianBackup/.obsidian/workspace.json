@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学科笔记/触摸屏面临哪些挑战和困难？.md",
+                "file": "学科笔记/神谕其二.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学科笔记/触摸屏面临哪些挑战和困难？.md",
+                "file": "学科笔记/神谕其二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学科笔记/触摸屏面临哪些挑战和困难？.md",
+                "file": "学科笔记/神谕其二.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学科笔记/触摸屏面临哪些挑战和困难？.md"
+                "file": "学科笔记/神谕其二.md"
               }
             }
           },
@@ -192,9 +192,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "379add9916a8ba23",
+  "active": "6c6069df958ce9a5",
   "lastOpenFiles": [
     "学科笔记/触摸屏面临哪些挑战和困难？.md",
+    "学科笔记/神谕其二.md",
     "实践部记录/点石成金项目梳理-初版.md",
     "实践部记录/点石成金项目梳理.md",
     "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
@@ -235,7 +236,6 @@
     "Self-CS/CS61A/Notes/Lec.2 Functions.md",
     "Self-CS/CS61A/Notes/Lec.3 Control Q&A.md",
     "Diary/2023-05-04 第一次日记？.md",
-    "ST&LT Task/2023-4-W2 plan.md",
     "未命名.canvas",
     "Self-CS/The Missing Semester of Your CS Education",
     "Self-CS/李宏毅机器学习课程",
