@@ -11,14 +11,11 @@
             "id": "6c6069df958ce9a5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "学科笔记/神谕其二.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1.canvas",
+                "file": "学科笔记/神谕其二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 1.canvas",
+                "file": "学科笔记/神谕其二.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 1.canvas"
+                "file": "学科笔记/神谕其二.md"
               }
             }
           },
@@ -197,9 +194,11 @@
   },
   "active": "6c6069df958ce9a5",
   "lastOpenFiles": [
+    "学科笔记/离散数学2.md",
+    "学科笔记/神谕其二.md",
+    "菜谱/Day 1.md",
     "未命名 1.canvas",
     "未命名.canvas",
-    "学科笔记/神谕其二.md",
     "Pics/Pasted image 20240517195401.png",
     "Pics/Pasted image 20240517195400.png",
     "Pics/Pasted image 20240517195359.png",
@@ -214,7 +213,6 @@
     "实践部记录/点石成金项目梳理-初版.md",
     "实践部记录/点石成金项目梳理.md",
     "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
-    "菜谱/Day 1.md",
     "菜谱/Day2.md",
     "菜谱/Day3.md",
     "Self-CS/neovim踩坑实录.md",
@@ -227,7 +225,6 @@
     "学科笔记/神谕.md",
     "Diary/2024-01-29.md",
     "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
-    "学科笔记/离散数学2.md",
     "学科笔记",
     "Self-CS/李宏毅机器学习课程/第五节 Transformer.md",
     "Self-CS/李宏毅机器学习课程/Lecture 1.md",
