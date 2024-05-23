@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学科笔记/神谕其二.md",
+                "file": "学科笔记/数据结构2.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学科笔记/神谕其二.md",
+                "file": "学科笔记/数据结构2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学科笔记/神谕其二.md",
+                "file": "学科笔记/数据结构2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学科笔记/神谕其二.md"
+                "file": "学科笔记/数据结构2.md"
               }
             }
           },
@@ -194,8 +194,10 @@
   },
   "active": "6c6069df958ce9a5",
   "lastOpenFiles": [
-    "学科笔记/离散数学2.md",
     "学科笔记/神谕其二.md",
+    "学科笔记/数据结构2.md",
+    "学科笔记/神谕.md",
+    "学科笔记/离散数学2.md",
     "菜谱/Day 1.md",
     "未命名 1.canvas",
     "未命名.canvas",
@@ -222,7 +224,6 @@
     "ST&LT Task/2023-5-W1 plan 1.md",
     "读书笔记/未命名",
     "菜谱",
-    "学科笔记/神谕.md",
     "Diary/2024-01-29.md",
     "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
     "学科笔记",
