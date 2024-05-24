@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c6069df958ce9a5",
+            "id": "9fb2e6bbd8b8ac2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "学科笔记/数据结构2-Jerry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c6069df958ce9a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学科笔记/数据结构2-课后习题.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "184109defdd3d8ae",
@@ -192,8 +205,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c6069df958ce9a5",
+  "active": "9fb2e6bbd8b8ac2f",
   "lastOpenFiles": [
+    "学科笔记/数据结构2-课后习题.md",
+    "学科笔记/数据结构2-Jerry.md",
     "Pics/Pasted image 20240524000925.png",
     "Pics/Pasted image 20240524000309.png",
     "Pics/Pasted image 20240523234035.png",
@@ -201,8 +216,6 @@
     "Pics/Pasted image 20240523204009.png",
     "Pics/Pasted image 20240523203938.png",
     "Pics/Pasted image 20240523202431.png",
-    "学科笔记/数据结构2-课后习题.md",
-    "学科笔记/数据结构2-Jerry.md",
     "Pics/Pasted image 20240523165930.png",
     "Pics/Pasted image 20240523164335.png",
     "Pics/Pasted image 20240523164334.png",
@@ -212,7 +225,6 @@
     "菜谱/Day 1.md",
     "未命名 1.canvas",
     "未命名.canvas",
-    "Pics/Pasted image 20240517195401.png",
     "学科笔记/触摸屏面临哪些挑战和困难？.md",
     "实践部记录/点石成金项目梳理-初版.md",
     "实践部记录/点石成金项目梳理.md",
