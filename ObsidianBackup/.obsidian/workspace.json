@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学科笔记/数据结构2-Jerry.md",
+                "file": "学科笔记/数据结构2-课后习题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学科笔记/数据结构2-Jerry.md",
+                "file": "学科笔记/数据结构2-课后习题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学科笔记/数据结构2-Jerry.md"
+                "file": "学科笔记/数据结构2-课后习题.md"
               }
             }
           },
@@ -205,10 +206,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9fb2e6bbd8b8ac2f",
+  "active": "6c6069df958ce9a5",
   "lastOpenFiles": [
-    "学科笔记/数据结构2-课后习题.md",
     "学科笔记/数据结构2-Jerry.md",
+    "学科笔记/数据结构2-课后习题.md",
     "Pics/Pasted image 20240524000925.png",
     "Pics/Pasted image 20240524000309.png",
     "Pics/Pasted image 20240523234035.png",
