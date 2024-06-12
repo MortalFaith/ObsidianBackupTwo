@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "7acf9c2a2be64b4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "寓言.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6c6069df958ce9a5",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "184109defdd3d8ae",
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学科笔记/数据结构2-Jerry.md",
+                "file": "寓言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学科笔记/数据结构2-Jerry.md",
+                "file": "寓言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学科笔记/数据结构2-Jerry.md"
+                "file": "寓言.md"
               }
             }
           },
@@ -205,8 +217,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9fb2e6bbd8b8ac2f",
+  "active": "7acf9c2a2be64b4f",
   "lastOpenFiles": [
+    "学科笔记/数据结构2-Jerry.md",
+    "寓言.md",
     "Pics/Pasted image 20240525155608.png",
     "Pics/Pasted image 20240525155545.png",
     "Pics/Pasted image 20240525154829.png",
@@ -217,9 +231,7 @@
     "Pics/Pasted image 20240525151115.png",
     "Pics/Pasted image 20240525151055.png",
     "Pics/Pasted image 20240525151054.png",
-    "Pics/Pasted image 20240525151030.png",
     "学科笔记/数据结构2-课后习题.md",
-    "学科笔记/数据结构2-Jerry.md",
     "学科笔记/神谕其二.md",
     "学科笔记/神谕.md",
     "学科笔记/离散数学2.md",
