@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a6aa6c4db20658a7",
+        "id": "5567ae773b62979f",
         "type": "tabs",
         "children": [
           {
-            "id": "9fb2e6bbd8b8ac2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学科笔记/数据结构2-Jerry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7acf9c2a2be64b4f",
+            "id": "0ef198075d516aa2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6c6069df958ce9a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学科笔记/数据结构2-课后习题.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,15 +192,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7acf9c2a2be64b4f",
+  "active": "0ef198075d516aa2",
   "lastOpenFiles": [
-    "实践部记录/实践部手册/序.md",
-    "实践部记录/实践部手册/社会实践篇.md",
-    "实践部记录/实践部手册",
-    "实践部记录/点石成金项目梳理-初版.md",
     "实践部记录/点石成金项目梳理.md",
-    "寓言.md",
+    "实践部记录/点石成金项目梳理-初版.md",
+    "实践部记录/材料/点石成金志愿者团队2023.9.25.pdf",
+    "学科笔记/数据结构2-课后习题.md",
     "学科笔记/数据结构2-Jerry.md",
+    "实践部记录/实践部手册/社会实践篇.md",
+    "实践部记录/材料",
+    "实践部记录/新建文件夹",
+    "实践部记录/点石成金志愿者团队2023.9.25.pdf",
+    "实践部记录/实践部手册/序.md",
+    "实践部记录/实践部手册",
+    "寓言.md",
     "Pics/Pasted image 20240525155608.png",
     "Pics/Pasted image 20240525155545.png",
     "Pics/Pasted image 20240525154829.png",
@@ -236,7 +216,6 @@
     "Pics/Pasted image 20240525151115.png",
     "Pics/Pasted image 20240525151055.png",
     "Pics/Pasted image 20240525151054.png",
-    "学科笔记/数据结构2-课后习题.md",
     "学科笔记/神谕其二.md",
     "学科笔记/神谕.md",
     "学科笔记/离散数学2.md",
@@ -260,12 +239,7 @@
     "Self-CS/李宏毅机器学习课程/第五节 Transformer.md",
     "Self-CS/李宏毅机器学习课程/Lecture 1.md",
     "读书笔记/It Doesn't Have To Be Crazy At Work.md",
-    "读书笔记",
     "Self-CS/如何有效地报告 Bug.md",
-    "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
-    "Diary/2023-01-24 第一天使用Obsidian.md",
-    "Self-CS/The Missing Semester of Your CS Education",
-    "Self-CS/李宏毅机器学习课程",
-    "Self-CS/The Missing Semester of Your CS Education"
+    "Self-CS/The Missing Semester of Your CS Education/Lec.1.md"
   ]
 }
