@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实践部记录/未命名.md",
+                "file": "实践部记录/实践部手册/序.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实践部记录/未命名.md",
+                "file": "实践部记录/实践部手册/序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实践部记录/未命名.md",
+                "file": "实践部记录/实践部手册/序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实践部记录/未命名.md"
+                "file": "实践部记录/实践部手册/序.md"
               }
             }
           },
@@ -217,10 +217,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "379add9916a8ba23",
+  "active": "7acf9c2a2be64b4f",
   "lastOpenFiles": [
+    "实践部记录/实践部手册",
     "实践部记录/点石成金项目梳理-初版.md",
-    "实践部记录/未命名.md",
+    "实践部记录/实践部手册/序.md",
     "实践部记录/点石成金项目梳理.md",
     "寓言.md",
     "学科笔记/数据结构2-Jerry.md",
@@ -262,7 +263,6 @@
     "Self-CS/如何有效地报告 Bug.md",
     "Self-CS/The Missing Semester of Your CS Education/Lec.1.md",
     "Diary/2023-01-24 第一天使用Obsidian.md",
-    "ST&LT Task/2023-5-W1 plan.md",
     "Self-CS/The Missing Semester of Your CS Education",
     "Self-CS/李宏毅机器学习课程",
     "Self-CS/The Missing Semester of Your CS Education",
