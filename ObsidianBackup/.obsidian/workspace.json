@@ -23,9 +23,11 @@
             "id": "811771396a44f10c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "实践部记录/实践部手册/序.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -136,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实践部记录/实践部手册/社会实践篇.md",
+                "file": "实践部记录/实践部手册/序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实践部记录/实践部手册/社会实践篇.md",
+                "file": "实践部记录/实践部手册/序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实践部记录/实践部手册/社会实践篇.md"
+                "file": "实践部记录/实践部手册/序.md"
               }
             }
           },
@@ -217,13 +219,13 @@
   },
   "active": "811771396a44f10c",
   "lastOpenFiles": [
-    "实践部记录/实践部手册/工作篇.md",
+    "实践部记录/点石成金项目梳理.md",
+    "实践部记录/点石成金项目梳理-初版.md",
     "实践部记录/实践部手册/社会实践篇.md",
+    "实践部记录/实践部手册/工作篇.md",
     "实践部记录/实践部手册/序.md",
     "实践部记录/材料/点石成金志愿者团队2023.9.25.pdf",
     "().md",
-    "实践部记录/点石成金项目梳理.md",
-    "实践部记录/点石成金项目梳理-初版.md",
     "学科笔记/数据结构2-课后习题.md",
     "学科笔记/数据结构2-Jerry.md",
     "实践部记录/材料",
