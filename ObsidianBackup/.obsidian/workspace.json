@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "811771396a44f10c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
             "id": "193739070cd6e639",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +215,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ef198075d516aa2",
+  "active": "811771396a44f10c",
   "lastOpenFiles": [
     "实践部记录/实践部手册/工作篇.md",
     "实践部记录/实践部手册/社会实践篇.md",
