@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "8e1c9e9c028a215f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "193739070cd6e639",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,7 +227,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "811771396a44f10c",
+  "active": "8e1c9e9c028a215f",
   "lastOpenFiles": [
     "实践部记录/点石成金项目梳理.md",
     "实践部记录/点石成金项目梳理-初版.md",
