@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实践部记录/实践部手册/工作篇.md",
+                "file": "Self-CS/ysyx/提问的智慧亦是解答的妙诀.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实践部记录/实践部手册/工作篇.md",
+                "file": "Self-CS/ysyx/提问的智慧亦是解答的妙诀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实践部记录/实践部手册/工作篇.md",
+                "file": "Self-CS/ysyx/提问的智慧亦是解答的妙诀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实践部记录/实践部手册/工作篇.md"
+                "file": "Self-CS/ysyx/提问的智慧亦是解答的妙诀.md"
               }
             }
           },
@@ -219,21 +219,31 @@
   },
   "active": "8e1c9e9c028a215f",
   "lastOpenFiles": [
+    "读书笔记/It Doesn't Have To Be Crazy At Work.md",
+    "Self-CS/ysyx/提问的智慧亦是解答的妙诀.md",
+    "Self-CS/ysyx",
+    "实践部记录/材料/点石成金志愿者团队2023.9.25.pdf",
+    "ST&LT Task/s-0001 让工具适应人——vim.md",
+    "ST&LT Task/2024-3-W1.md",
+    "ST&LT Task/2023-5-W1 plan 1.md",
+    "Self-CS/neovim踩坑实录.md",
+    "学科笔记/数据结构2-课后习题.md",
+    "学科笔记/神谕其二.md",
+    "学科笔记/神谕.md",
+    "学科笔记/离散数学2.md",
+    "学科笔记/触摸屏面临哪些挑战和困难？.md",
+    "实践部记录/实践部手册/工作篇.md",
+    "实践部记录/实践部手册/序.md",
+    "实践部记录/实践部手册/支教篇.md",
+    "实践部记录/点石成金项目梳理-初版.md",
+    "实践部记录/点石成金项目梳理.md",
+    "实践部记录/实践部手册/回忆3.md",
+    "实践部记录/实践部手册/宣传篇.md",
     "实践部记录/实践部手册/回忆2.md",
     "实践部记录/实践部手册/社会实践篇.md",
     "实践部记录/实践部手册/回忆篇.md",
-    "实践部记录/实践部手册/宣传篇.md",
-    "实践部记录/实践部手册/支教篇.md",
-    "实践部记录/实践部手册/序.md",
-    "实践部记录/实践部手册/回忆3.md",
-    "实践部记录/实践部手册/工作篇.md",
-    "实践部记录/实践部手册/工作篇.md",
     "寓言.md",
-    "实践部记录/点石成金项目梳理-初版.md",
-    "实践部记录/点石成金项目梳理.md",
-    "实践部记录/材料/点石成金志愿者团队2023.9.25.pdf",
     "().md",
-    "学科笔记/数据结构2-课后习题.md",
     "学科笔记/数据结构2-Jerry.md",
     "实践部记录/材料",
     "实践部记录/新建文件夹",
@@ -249,23 +259,13 @@
     "Pics/Pasted image 20240525151115.png",
     "Pics/Pasted image 20240525151055.png",
     "Pics/Pasted image 20240525151054.png",
-    "学科笔记/神谕其二.md",
-    "学科笔记/神谕.md",
-    "学科笔记/离散数学2.md",
     "菜谱/Day 1.md",
     "未命名 1.canvas",
     "未命名.canvas",
-    "学科笔记/触摸屏面临哪些挑战和困难？.md",
     "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
-    "菜谱/Day2.md",
-    "菜谱/Day3.md",
-    "Self-CS/neovim踩坑实录.md",
     "实践部记录/点石成金项目梳理-初版.pdf",
     "实践部记录",
-    "ST&LT Task/2024-3-W1.md",
-    "ST&LT Task/2023-5-W1 plan 1.md",
     "读书笔记/未命名",
-    "菜谱",
-    "学科笔记"
+    "菜谱"
   ]
 }
