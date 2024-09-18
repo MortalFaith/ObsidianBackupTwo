@@ -17,7 +17,7 @@
 3. **元组**：元组仅在UDP的服务器端涉及。由于UDP协议在发送信息时必须将目的地地址附在信息中一起发送，因此UDP服务器中除了需要将用户的地址也与用户名一一对应。本程序将密码与地址装入一个元组中，并将这个整体作为用户字典的值存储。
 4. **字典**：字典有着靠索引快速查找的优点，在本程序中用于构建客户的用户名与其密码或是密码、 地址元组间的一一对应关系（如元组中所述）。服务器发现有新用户注册时会向用户字典中增加新的键值对。需要注意的是用户即使断开连接，用户字典中的信息并不会改变（保留账号密码），而是对用户列表进行调整。
 # 主要算法描述
-本程序最核心的部分为服务端和客户端各自的监听循环，其中主要有以下这些板块：
+本程序最核心的部分为服务端和客户端各自的监听循环，其中主要有以下这些板块（以UDP为例）：
 - 服务端：用户注册+校验密码+回应客户端请求
 ```Python
 if message[:4] == 'con:':  
@@ -31,9 +31,25 @@ elif message[:3] == '***':
    self.passwordJudge(message[3:message.find(':')], message[message.find(':') + 1:], clientAddress)  
   
 elif message[:3] == '>>>':  
-   # xiang'ying  
+   # 响应请求  
 elif message[:3] == '...':  
    print('[管理员]:用户', message[3:], '退出房间')  
    self.Broadcast(message='[管理员]:用户 ' + message[3:] + ' 退出房间')  
    self.userLogout(message[3:])
 ```
+- 客户端：登入+处理服务端信息+发送消息
+```Python
+self.name = self.login()  
+self.score = 0  
+self.initUI()  
+print("开启子线程用于接受数据")  
+thread = threading.Thread(target=self.__receive_message_thread, daemon=True)  
+thread.start()
+```
+# 用户使用手册
+由于TCP与UDP的服务器端与客户端的操作完全一致，仅在实现方式上有所区别。因此在使用方法的演示部分以TCP的服务器端与客户端为例进行演示。
+## 服务器端使用手册
+- 运行TCPServer.py，等待控制台中弹出服务器端成功启动的消息。
+![[Pasted image 20240918221635.png]]
+<center>图1-服务端启动成功消息</center>
+- 
