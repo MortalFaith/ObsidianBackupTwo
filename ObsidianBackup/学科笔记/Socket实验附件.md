@@ -74,3 +74,6 @@ thread.start()
  ![[Pasted image 20240918222507.png]]
  <center>图9-客户端密码错误</center>
  - 成功登录后即可进入房间，上方方框中将会显示来自服务器的消息。
+ ![[Pasted image 20240918222750.png]]
+  <center>图10-两个客户端成功完成石头剪刀布游戏并结算分数</center>
+  

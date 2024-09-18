@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实践部记录/实践部手册/序.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e1c9e9c028a215f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "学科笔记/Socket实验附件.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,8 +205,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e1c9e9c028a215f",
+  "active": "811771396a44f10c",
   "lastOpenFiles": [
+    "实践部记录/实践部手册/序.md",
+    "Pics/Pasted image 20240918222750.png",
+    "实践部记录/实践部手册/社会实践篇.md",
+    "学科笔记/Socket实验附件.md",
     "Pics/Pasted image 20240918222507.png",
     "Pics/Pasted image 20240918222400.png",
     "Pics/Pasted image 20240918222312.png",
@@ -228,10 +220,7 @@
     "Pics/Pasted image 20240918222011.png",
     "Pics/Pasted image 20240918221920.png",
     "Pics/Pasted image 20240918221903.png",
-    "Pics/Pasted image 20240918221817.png",
-    "Pics/Pasted image 20240918221635.png",
     "Self-CS/ysyx/提问的智慧亦是解答的妙诀.md",
-    "学科笔记/Socket实验附件.md",
     "Self-CS/如何有效地报告 Bug.md",
     "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
     "读书笔记/It Doesn't Have To Be Crazy At Work.md",
@@ -247,14 +236,12 @@
     "学科笔记/离散数学2.md",
     "学科笔记/触摸屏面临哪些挑战和困难？.md",
     "实践部记录/实践部手册/工作篇.md",
-    "实践部记录/实践部手册/序.md",
     "实践部记录/实践部手册/支教篇.md",
     "实践部记录/点石成金项目梳理-初版.md",
     "实践部记录/点石成金项目梳理.md",
     "实践部记录/实践部手册/回忆3.md",
     "实践部记录/实践部手册/宣传篇.md",
     "实践部记录/实践部手册/回忆2.md",
-    "实践部记录/实践部手册/社会实践篇.md",
     "实践部记录/实践部手册/回忆篇.md",
     "寓言.md",
     "实践部记录/材料",
