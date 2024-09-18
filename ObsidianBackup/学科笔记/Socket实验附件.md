@@ -52,4 +52,17 @@ thread.start()
 - 运行TCPServer.py，等待控制台中弹出服务器端成功启动的消息。
 ![[Pasted image 20240918221635.png]]
 <center>图1-服务端启动成功消息</center>
+- 启动后服务端会根据用户信息的类型自动进行登陆验证与广播消息。
+![[Pasted image 20240918221817.png]]
+<center>图2-服务端处理新用户</center>
+![[Pasted image 20240918221920.png]]
+<center>图3-服务端处理客户端登入成功</center>
+![[Pasted image 20240918222011.png]]
+<center>图4-服务端处理用户请求</center>
+## 客户端使用手册
+- 运行TCPClient.py，出现弹窗提示用户登录。
+![[Pasted image 20240918222126.png]]
+<center>图5-客户端请求输入用户名</center>
 - 
+![[Pasted image 20240918222221.png]]
+<center>图6-客户端请求输入密码</center>
