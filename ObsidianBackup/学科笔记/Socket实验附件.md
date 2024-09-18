@@ -63,6 +63,14 @@ thread.start()
 - 运行TCPClient.py，出现弹窗提示用户登录。
 ![[Pasted image 20240918222126.png]]
 <center>图5-客户端请求输入用户名</center>
-- 
+- 若为首次登录用户，服务器将会提示用户创建密码；若为老用户则直接输入密码登录即可。
 ![[Pasted image 20240918222221.png]]
 <center>图6-客户端请求输入密码</center>
+![[Pasted image 20240918222312.png]]
+<center>图7-客户端登入成功（老用户）</center>
+![[Pasted image 20240918222400.png]]
+<center>图8-客户端注册成功（新用户）</center>
+- 如输错密码，则客户端会提示重新输入密码。
+ ![[Pasted image 20240918222507.png]]
+ <center>图9-客户端密码错误</center>
+ - 成功登录后即可进入房间，上方方框中将会显示来自服务器的消息。
