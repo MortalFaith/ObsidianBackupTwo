@@ -17,4 +17,23 @@
 3. **元组**：元组仅在UDP的服务器端涉及。由于UDP协议在发送信息时必须将目的地地址附在信息中一起发送，因此UDP服务器中除了需要将用户的地址也与用户名一一对应。本程序将密码与地址装入一个元组中，并将这个整体作为用户字典的值存储。
 4. **字典**：字典有着靠索引快速查找的优点，在本程序中用于构建客户的用户名与其密码或是密码、 地址元组间的一一对应关系（如元组中所述）。服务器发现有新用户注册时会向用户字典中增加新的键值对。需要注意的是用户即使断开连接，用户字典中的信息并不会改变（保留账号密码），而是对用户列表进行调整。
 # 主要算法描述
-本程序中
+本程序最核心的部分为服务端和客户端各自的监听循环，其中主要有以下这些板块：
+- 服务端：用户注册+校验密码+回应客户端请求
+```Python
+if message[:4] == 'con:':  
+   print("[管理员后台]:用户登录中，用户名为{}。".format(message[4:]))  
+   print("[管理员后台]:判断该用户名是否合法……")  
+   self.userLogin(message[4:], clientAddress)  
+  
+elif message[:3] == '***':  
+   print("[管理员后台]:用户输入密码中，密码为{}。".format(message[message.find(':') + 1:]))  
+   print("[管理员后台]:判断该密码是否正确……")  
+   self.passwordJudge(message[3:message.find(':')], message[message.find(':') + 1:], clientAddress)  
+  
+elif message[:3] == '>>>':  
+   # xiang'ying  
+elif message[:3] == '...':  
+   print('[管理员]:用户', message[3:], '退出房间')  
+   self.Broadcast(message='[管理员]:用户 ' + message[3:] + ' 退出房间')  
+   self.userLogout(message[3:])
+```
