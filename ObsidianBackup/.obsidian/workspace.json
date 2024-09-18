@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self-CS/ysyx/提问的智慧亦是解答的妙诀.md",
+                "file": "学科笔记/Socket实验附件.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-CS/ysyx/提问的智慧亦是解答的妙诀.md",
+                "file": "学科笔记/Socket实验附件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-CS/ysyx/提问的智慧亦是解答的妙诀.md",
+                "file": "学科笔记/Socket实验附件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self-CS/ysyx/提问的智慧亦是解答的妙诀.md"
+                "file": "学科笔记/Socket实验附件.md"
               }
             }
           },
@@ -219,9 +219,10 @@
   },
   "active": "8e1c9e9c028a215f",
   "lastOpenFiles": [
+    "Self-CS/ysyx/提问的智慧亦是解答的妙诀.md",
+    "学科笔记/Socket实验附件.md",
     "Self-CS/如何有效地报告 Bug.md",
     "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
-    "Self-CS/ysyx/提问的智慧亦是解答的妙诀.md",
     "Pics/Pasted image 20240916203004.png",
     "Pics/Pasted image 20240916202731.png",
     "Pics/Pasted image 20240916202708.png",
@@ -249,7 +250,6 @@
     "实践部记录/实践部手册/回忆篇.md",
     "寓言.md",
     "().md",
-    "学科笔记/数据结构2-Jerry.md",
     "实践部记录/材料",
     "实践部记录/新建文件夹",
     "实践部记录/点石成金志愿者团队2023.9.25.pdf",
