@@ -3,4 +3,5 @@
 3. touch - 更改文件的时间戳
 4. 略
 5. Quoting即转义，改变特殊字符的含义
-6. 
+6. permission denied: ./semester，没有权限
+7. 
