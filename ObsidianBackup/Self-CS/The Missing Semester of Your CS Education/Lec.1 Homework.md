@@ -4,4 +4,4 @@
 4. 略
 5. Quoting即转义，改变特殊字符的含义
 6. permission denied: ./semester，没有权限
-7. 
+7. chmod 的功能之一可以用 mode file参数改变权限，mode的三个位可以是0~7中的一个，代表着
