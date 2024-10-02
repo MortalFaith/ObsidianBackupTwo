@@ -6,4 +6,4 @@
 2. see macro.sh
 3. see fail.sh
 4. find -name "*.html" | xargs -d "\n" zip test.zip
-5. 
+5. use -exec to trigger ls and use -ltu to sort the files
