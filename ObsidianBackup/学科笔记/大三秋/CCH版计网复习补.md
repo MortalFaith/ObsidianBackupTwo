@@ -126,6 +126,8 @@ IPv4
 
 - ABCD类：![[5bd6eb2381853c5ccba52f8dc1fb5bc.jpg]]![[Clipboard 2024年10月27日 17.57.heic]]![[Clipboard 2024年10月27日 21.16.heic]]
 - 划分子网——子网掩码：
+	- 网络号+子网号+主机号
+	- ![[Clipboard 2024年10月27日 21.33.heic]]![[Clipboard 2024年10月27日 21.35.heic]]
 
 无分类CIDR：
 
@@ -146,7 +148,7 @@ IP首部格式
 	DF（don't fragment）：0允许分片，1反之
 	MF（more fragment）：0表示最后一个分片，1反之
 	![[Clipboard 2024年10月27日 21.25.heic]]
-- 协议类型：
+- 协议类型：![[Clipboard 2024年10月27日 21.31.heic]]
 
 
 ICMP协议
