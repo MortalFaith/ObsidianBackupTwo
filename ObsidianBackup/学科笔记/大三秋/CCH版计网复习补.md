@@ -94,6 +94,8 @@
   - 检错 **CRC校验码** 编码效率 = 有效数据位 / 码字长
 	- 检错码/编码效率：![[af7f7248bdaf67587a7591f755b208a.jpg]]
 	- CRC校验码：
+	1. 冗余码计算：![[f88a5fb1cd0a7194a795aa7a36456d5 1.jpg]]
+	2. 如果M=1010001101 P=110101 n=5：![[e119d2bacf0ee6287eb94b76863b4b8.jpg]]![[9bf2afcbcddfcaeda9cc88a5720b42c.jpg]]
 
 动态划分信道 CSMA/CD协议
 
