@@ -147,7 +147,7 @@ IP首部格式
 - 片位移（见上）、DF、MF：
 	DF（don't fragment）：0允许分片，1反之
 	MF（more fragment）：0表示最后一个分片，1反之
-	![[Clipboard 2024年10月27日 21.25.heic]]
+	![[Clipboard 2024年10月27日 21.25.heic]]![[Pasted image 20241027214023.png]]
 - 协议类型：![[Clipboard 2024年10月27日 21.31.heic]]
 
 
