@@ -125,7 +125,7 @@ VLAN 冲突域和广播域：？？？
 IPv4 
 
 - ABCD类：![[5bd6eb2381853c5ccba52f8dc1fb5bc.jpg]]
-- 划分子网——子网掩码
+- 划分子网——子网掩码：![[Clipboard 2024年10月27日 17.57.heic]]
 
 无分类CIDR
 
