@@ -133,7 +133,7 @@ IPv4
 无分类CIDR：
 
 - 斜线记法：![[Clipboard 2024年10月27日 21.45.heic]]
-- 路由聚合 构造超网：![[Clipboard 2024年10月27日 21.46.heic]]![[Pasted image 20241027214629.png]]
+- 路由聚合 构造超网：![[Clipboard 2024年10月27日 21.46.heic]]![[Pasted image 20241027214629.png]]![[Clipboard 2024年10月27日 21.47.heic]]
 - 二叉线索（**不考**）
 
 地址解析协议ARP（英译中 Address Resolution Protocol）   IP地址->MAC地址
