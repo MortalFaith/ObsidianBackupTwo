@@ -128,11 +128,12 @@ IPv4
 - 划分子网——子网掩码：
 	- 网络号+子网号+主机号
 	- ![[Clipboard 2024年10月27日 21.33.heic]]![[Clipboard 2024年10月27日 21.35.heic]]
+	- 子网划分：192.37.12.0划成两个：![[Clipboard 2024年10月27日 21.42.heic]]
 
 无分类CIDR：
 
-- 斜线记法
-- 路由聚合 构造超网
+- 斜线记法：![[Clipboard 2024年10月27日 21.45.heic]]
+- 路由聚合 构造超网：![[Clipboard 2024年10月27日 21.46.heic]]![[Pasted image 20241027214629.png]]
 - 二叉线索（**不考**）
 
 地址解析协议ARP（英译中 Address Resolution Protocol）   IP地址->MAC地址
