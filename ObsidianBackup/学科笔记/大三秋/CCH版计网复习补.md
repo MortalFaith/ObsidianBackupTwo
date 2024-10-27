@@ -103,11 +103,11 @@
 - 争用期计算：![[049c6d368012b8e18a092b103eec051.jpg]]![[Pasted image 20241027153025.png]]![[Pasted image 20241027153044.png]]![[Pasted image 20241027162634.png]]
 - 退避时间计算——二进制退避算法：![[d137de247ce3c7b58316cda8269a7d2.jpg]]
 
-星型拓扑——100BASE-T
+星型拓扑——100BASE-T：![[4562208c69450e675beb311f1c9c609.jpg]]
 
 层次结构 MAC(LLC不考！) 
 
-- MAC帧最大传输单元MTU = 1500
+- MAC帧最大传输单元MTU = 1500：![[2ed2dd8f6bc02766f9772a91a5015e5.jpg]]
 
 交换机
 
