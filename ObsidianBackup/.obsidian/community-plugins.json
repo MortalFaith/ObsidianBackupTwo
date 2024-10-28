@@ -8,5 +8,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "cm-chs-patch",
   "image-magician",
-  "image-converter"
+  "image-converter",
+  "better-export-pdf"
 ]
