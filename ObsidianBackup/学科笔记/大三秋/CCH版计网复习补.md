@@ -207,3 +207,5 @@ TCP拥塞控制
     - 立刻重传
     - ssthresh = cwnd / 2
     - 加法增大
+- 从1开始：![[Pasted image 20241028112433.png]]
+- 三个重复确认：/2；超时：归零![[Pasted image 20241028112513.png]]
