@@ -166,14 +166,14 @@ IP多播
 - 静态路由算法
 - 动态路由算法（**和谁交换 交换什么 何时交换 互相比较优势在哪里？劣势在哪里**）
   - RIP：![[Pasted image 20241028094630.png]]
-  - OSPF：![[Clipboard 2024年10月28日 09.48.heic]]
+  - OSPF：![[Clipboard 2024年10月28日 09.48.heic]]![[Clipboard 2024年10月28日 09.50.heic]]
   - BGP：？
 
 
 
 ### 第五章
 
-UDP
+UDP：![[Clipboard 2024年10月28日 09.52.heic]]
 
 **连续ARQ协议**
 
