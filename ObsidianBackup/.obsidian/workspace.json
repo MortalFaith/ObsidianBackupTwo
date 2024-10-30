@@ -35,7 +35,8 @@
               "title": "神谕补"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,10 +233,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "811771396a44f10c",
+  "active": "f4aa91e5b6a112ea",
   "lastOpenFiles": [
-    "学科笔记/大三秋/神谕补.md",
     "学科笔记/大三秋/神谕.md",
+    "学科笔记/大三秋/神谕补.md",
     "学科笔记/大三秋/张神版计网复习Ver.1.md",
     "Pics/张神版计网复习-20241028172138110.heic",
     "学科笔记/大三秋/CCH版计网复习补.md",
