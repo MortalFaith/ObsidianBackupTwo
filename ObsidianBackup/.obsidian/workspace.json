@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学科笔记/大三秋/神谕.md",
+                "file": "学科笔记/大三秋/神谕补 Alpha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神谕"
+              "title": "神谕补 Alpha"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学科笔记/大三秋/张神版计网复习Ver. 1.5.md",
+                "file": "学科笔记/大三秋/张神版计网复习Ver. 1.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "张神版计网复习Ver. 1.5"
+              "title": "张神版计网复习Ver. 1.1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,12 +232,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4aa91e5b6a112ea",
+  "active": "811771396a44f10c",
   "lastOpenFiles": [
-    "Pics/张神版计网复习Ver. 1.5-20241031103950791.heic",
     "学科笔记/大三秋/神谕.md",
-    "学科笔记/大三秋/神谕补.md",
-    "学科笔记/大三秋/张神版计网复习Ver. 1.5.md",
+    "学科笔记/大三秋/张神版计网复习Ver. 1.1.md",
+    "Pics/张神版计网复习Ver. 1.5-20241031104611897.png",
+    "Pics/张神版计网复习Ver. 1.5-20241031104507430.heic",
+    "Pics/张神版计网复习Ver. 1.5-20241031103950791.heic",
+    "学科笔记/大三秋/神谕补 Alpha.md",
     "Pics/神谕补-20241030161259052.heic",
     "Pics/张神版计网复习-20241028172138110.heic",
     "学科笔记/大三秋/CCH版计网复习补.md",
@@ -251,9 +252,7 @@
     "Pics/Clipboard 2024年10月28日 10.06.heic",
     "Pics/Clipboard 2024年10月28日 09.52.heic",
     "Pics/Clipboard 2024年10月28日 09.50.heic",
-    "Pics/Clipboard 2024年10月28日 09.48.heic",
     "Pics/Pasted image 20241028094630.png",
-    "Pics/Clipboard 2024年10月28日 09.36.heic",
     "Pics/Pasted image 20241027214629.png",
     "Pics/Pasted image 20241027214023.png",
     "Diary/2023-01-24 第一天使用Obsidian.md",
@@ -263,7 +262,6 @@
     "Pics/8ab71b0184cc77b24bf70202d91969f.jpg",
     "Pics/f82e036c6603ec75dba5afe802ae474.jpg",
     "Pics/Pasted image 20241027163520.png",
-    "Pics/2ed2dd8f6bc02766f9772a91a5015e5.jpg",
     "学科笔记/大三秋/计网1期末复习.md",
     "Diary/2024-01-29.md",
     "学科笔记/大三秋/计算机图形学.md",
