@@ -5,24 +5,23 @@
 
 - 抽选以下英文中的五个：
 
-|  缩写   | 全称 | 译名 |
-|:-------:|:----:|:----:|
-|   LLC   |      |      |
-|   MAC   |   Medium Access Control   |   媒体接入控制   |
-|   TCP   |   Transmission Control Protocol   |  传输控制协议    |
-|   UDP   |   User Datagram Protocol   |  用户数据报协议    |
-|  ICMP   |   Internet Control Message Protocol   |  网际控制报文协议    |
-|  IGMP   |      |      |
-|   ARP   |   Address Resolution Protocol   |  地址解析协议    |
-|   ARQ   |      |      |
-|  CDMA   |  Code Division Multiple Access    |  码分多址    |
-| CSMA/CD |  Carrier Sense Multiple Access with Collision Detection    |  载波监听 多点接入/碰撞检测    |
-|   RIP   |  Routing Information Protocol    |      |
-|  OSPF   |  Routing Information Protocol    |      |
-|   BGP   |      |      |
-|   VLAN      |      |      |
+|  缩写   |                          全称                          |           译名            |
+|:-------:|:------------------------------------------------------:|:-------------------------:|
+|   LLC   |                  Logical Link Control                  |       逻辑链路控制        |
+|   MAC   |                 Medium Access Control                  |       媒体接入控制        |
+|   TCP   |             Transmission Control Protocol              |       传输控制协议        |
+|   UDP   |                 User Datagram Protocol                 |      用户数据报协议       |
+|  ICMP   |           Internet Control Message Protocol            |     网际控制报文协议      |
+|  IGMP   |           Internet Group Management Protocol           |      网际组管理协议       |
+|   ARP   |              Address Resolution Protocol               |       地址解析协议        |
+|   ARQ   |                Automatic Repeat Request                |       自动重发请求        |
+|  CDMA   |             Code Division Multiple Access              |         码分多址          |
+| CSMA/CD | Carrier Sense Multiple Access with Collision Detection | 载波监听多点接入/碰撞检测 |
+|   RIP   |              Routing Information Protocol              |       路由信息协议        |
+|  OSPF   |                Open Shortest Path First                |     开放最短路径优先      |
+|   BGP   |                Border Gateway Protocol                 |       边界网关协议        |
+|  VLAN   |               Virtual Local Area Network               |        虚拟局域网         |
 
-## 大题（计算题16+图表题24+综合题15）
 
 >由于全是计算题，所以**粗体**的部分才有可能是大题（所以不是其他部分不重要）
 >计算题涉及的知识点基本上作业里都涉及过了
