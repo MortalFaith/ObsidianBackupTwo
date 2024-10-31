@@ -15,7 +15,7 @@
               "state": {
                 "file": "学科笔记/大三秋/张神版计网复习Ver. 1.1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "张神版计网复习Ver. 1.1"
@@ -232,7 +232,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "379add9916a8ba23",
+  "active": "811771396a44f10c",
   "lastOpenFiles": [
     "学科笔记/大三秋/神谕补 Alpha.md",
     "学科笔记/大三秋/神谕.md",

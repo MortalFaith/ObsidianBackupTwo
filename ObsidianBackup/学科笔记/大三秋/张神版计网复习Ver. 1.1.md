@@ -5,6 +5,23 @@
 
 - 抽选以下英文中的五个：
 
+|  缩写   | 全称 | 译名 |
+|:-------:|:----:|:----:|
+|   LLC   |      |      |
+|   MAC   |   Medium Access Control   |   媒体接入控制   |
+|   TCP   |   Transmission Control Protocol   |  传输控制协议    |
+|   UDP   |   User Datagram Protocol   |  用户数据报协议    |
+|  ICMP   |   Internet Control Message Protocol   |  网际控制报文协议    |
+|  IGMP   |      |      |
+|   ARP   |   Address Resolution Protocol   |  地址解析协议    |
+|   ARQ   |      |      |
+|  CDMA   |  Code Division Multiple Access    |  码分多址    |
+| CSMA/CD |  Carrier Sense Multiple Access with Collision Detection    |  载波监听 多点接入/碰撞检测    |
+|   RIP   |  Routing Information Protocol    |      |
+|  OSPF   |  Routing Information Protocol    |      |
+|   BGP   |      |      |
+|   VLAN      |      |      |
+
 ## 大题（计算题16+图表题24+综合题15）
 
 >由于全是计算题，所以**粗体**的部分才有可能是大题（所以不是其他部分不重要）
