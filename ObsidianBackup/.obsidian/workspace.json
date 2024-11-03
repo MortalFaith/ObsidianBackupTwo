@@ -35,7 +35,8 @@
               "title": "神谕补 Alpha"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,10 +233,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "520ad73f3015c2a1",
+  "active": "98b2d4955bf46b0b",
   "lastOpenFiles": [
-    "学科笔记/大三秋/神谕补 Alpha.md",
     "学科笔记/大三秋/神谕.md",
+    "学科笔记/大三秋/神谕补 Alpha.md",
     "学科笔记/大三秋/张神版计网复习 Ver. 1.1.14.md",
     "学科笔记/触摸屏面临哪些挑战和困难？.md",
     "学科笔记/大三秋/CCH版计网复习补.md",
