@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
-                "mode": "source",
+                "file": "Self-CS/李宏毅机器学习课程/第五节 Transformer.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "第四节 self-attention"
+              "title": "第五节 Transformer"
             }
           }
         ]
@@ -220,8 +220,8 @@
   },
   "active": "98b2d4955bf46b0b",
   "lastOpenFiles": [
-    "Self-CS/李宏毅机器学习课程/第五节 Transformer.md",
     "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
+    "Self-CS/李宏毅机器学习课程/第五节 Transformer.md",
     "学科笔记/大三秋/研讨.md",
     "学科笔记/毛茸茸的毛线球.md",
     "学科笔记/大三秋/神谕补 Sigma.md",
