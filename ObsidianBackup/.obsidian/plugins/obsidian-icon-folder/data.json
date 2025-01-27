@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiSemanticscholar",
       "SiCookiecutter",
       "SiReadme",
       "SiMdbook",
-      "IbAcademicBook",
-      "FabSearchengin"
+      "IbAcademicBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -64,5 +64,6 @@
     "inheritanceIcon": "SiReadme"
   },
   "菜谱": "SiCookiecutter",
-  "实践部记录": "SiReadme"
+  "实践部记录": "SiReadme",
+  "数学": "SiSemanticscholar"
 }
