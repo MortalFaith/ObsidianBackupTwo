@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "函数极限和连续-1"
             }
+          },
+          {
+            "id": "9325df229795f254",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -218,7 +232,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "98b2d4955bf46b0b",
+  "active": "9325df229795f254",
   "lastOpenFiles": [
     "实践部记录/实践部手册/工作篇.md",
     "数学/函数极限和连续-1.md",
