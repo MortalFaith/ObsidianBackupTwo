@@ -25,12 +25,14 @@
             "id": "c437a240800cac36",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "学科笔记/大三秋/神谕补 Sigma.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "神谕补 Sigma"
             }
           }
         ],
@@ -234,6 +236,15 @@
   },
   "active": "c437a240800cac36",
   "lastOpenFiles": [
+    "学科笔记/大三秋/张神版计网复习 Ver. 1.1.14.md",
+    "学科笔记/大三秋/神谕补 Sigma.md",
+    "学科笔记/大三秋/研讨.md",
+    "学科笔记/大三秋/神谕.md",
+    "学科笔记/神谕.md",
+    "学科笔记/神谕其二.md",
+    "学科笔记/毛茸茸的毛线球.md",
+    "学科笔记/离散数学2.md",
+    "学科笔记/触摸屏面临哪些挑战和困难？.md",
     "Diary/2025-02-13.md",
     "数学/函数极限和连续-1.md",
     "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
@@ -241,9 +252,6 @@
     "数学",
     "实践部记录/实践部手册/回忆篇.md",
     "实践部记录/实践部手册/社会实践篇.md",
-    "学科笔记/触摸屏面临哪些挑战和困难？.md",
-    "学科笔记/离散数学2.md",
-    "学科笔记/毛茸茸的毛线球.md",
     "实践部记录/点石成金项目梳理.md",
     "读书笔记/It Doesn't Have To Be Crazy At Work.md",
     "学科笔记/大三冬/动员.md",
@@ -257,11 +265,7 @@
     "实践部记录/实践部手册/回忆3.md",
     "Self-CS/李宏毅机器学习课程/第五节 Transformer.md",
     "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
-    "学科笔记/大三秋/研讨.md",
-    "学科笔记/大三秋/神谕补 Sigma.md",
-    "学科笔记/大三秋/张神版计网复习 Ver. 1.1.14.md",
     "学科笔记/大三秋/CCH版计网复习补.md",
-    "学科笔记/大三秋/神谕.md",
     "Pics/张神版计网复习 Ver. 1.1.14-20241031184957460.png",
     "Pics/张神版计网复习 Ver. 1.1.14-20241031184647857.heic",
     "Pics/张神版计网复习 Ver. 1.1.14-20241031184115720.png",
@@ -277,9 +281,7 @@
     "Pics/Clipboard 2024年10月28日 10.13.heic",
     "Diary/2023-01-24 第一天使用Obsidian.md",
     "Diary/2023-05-04 第一次日记？.md",
-    "学科笔记/神谕.md",
     "学科笔记/大三秋/计网1期末复习.md",
-    "Diary/2024-01-29.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
