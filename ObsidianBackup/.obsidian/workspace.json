@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "850ee21e0c5c6862",
+    "id": "0be6b2168c54c5c4",
     "type": "split",
     "children": [
       {
-        "id": "6dd1fb62156e0d4d",
+        "id": "09365baf4bdebb6e",
         "type": "tabs",
         "children": [
           {
-            "id": "acf8888776de0292",
+            "id": "0cf34ddd9f1661ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学科笔记/大四春/谢谢你，波波.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "谢谢你，波波"
+              "title": "新标签页"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a99bbc28e578515d",
+    "id": "67998e968a457ad7",
     "type": "split",
     "children": [
       {
-        "id": "7807bc5490cbbc40",
+        "id": "d1d31bd0fc6e742d",
         "type": "tabs",
         "children": [
           {
-            "id": "379add9916a8ba23",
+            "id": "a1c8c0038e24524d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "c20e097c15fb14a3",
+            "id": "41b2639ed0ef93a2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,31 +61,7 @@
             }
           },
           {
-            "id": "d6ba9f2e2ad6ad58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self-CS/CS61A/Notes/Lec.3 Control Q&A.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lec.3 Control Q&A"
-            }
-          },
-          {
-            "id": "d09c7e034660682b",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
-            }
-          },
-          {
-            "id": "ab8ad21d82e1a05b",
+            "id": "1f37460d93402eb1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -102,33 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 300
   },
   "right": {
-    "id": "184109defdd3d8ae",
+    "id": "1ae912682ffe3947",
     "type": "split",
     "children": [
       {
-        "id": "3fab873a5a362c5b",
+        "id": "7756b0a2b10a820b",
         "type": "tabs",
         "children": [
           {
-            "id": "3b5ad4661cbd9ca7",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "ed8197343886e61c",
+            "id": "9cae0ff5978e6172",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学科笔记/大四春/多媒体.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,73 +99,66 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "多媒体 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "443f5461e9996d2c",
+            "id": "dbf146eac0c2f1f4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学科笔记/大三秋/CCH版计网复习补.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "CCH版计网复习补 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "262c9e66a3def920",
+            "id": "96fafcd29b35a653",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
             }
           },
           {
-            "id": "4871c6446405b035",
+            "id": "5442fc19eaaa7a7d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "学科笔记/大三秋/CCH版计网复习补.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CCH版计网复习补 的大纲"
+              "title": "大纲"
             }
           },
           {
-            "id": "323a792c62a5fd9d",
+            "id": "04c2a16ef4d9d63b",
             "type": "leaf",
             "state": {
-              "type": "git-history-view",
+              "type": "calendar",
               "state": {},
-              "icon": "history",
-              "title": "History"
-            }
-          },
-          {
-            "id": "1a8df49250a1db9e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -218,55 +172,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "acf8888776de0292",
-  "lastOpenFiles": [
-    "Pics/谢谢你，波波-20250308174852399.heic",
-    "Pics/谢谢你，波波-20250308170026550.heic",
-    "Pics/谢谢你，波波-20250308165933746.heic",
-    "Pics/谢谢你，波波-20250308165909701.heic",
-    "Pics/谢谢你，波波-20250308164050217.heic",
-    "学科笔记/大四春/神谕（又一次）.md",
-    "学科笔记/大四春/谢谢你，波波.md",
-    "Pics/谢谢你，波波-20250307154443886.heic",
-    "学科笔记/大三秋/神谕补 Sigma.md",
-    "学科笔记/大四春/多媒体.md",
-    "Pics/神谕（又一次）-20250301112456197.png",
-    "Pics/神谕（又一次）-20250301112445397.png",
-    "Pics/神谕（又一次）-20250301112433652.png",
-    "Pics/神谕（又一次）-20250301111538284.png",
-    "Pics/神谕（又一次）-20250301110010284.png",
-    "Pics/神谕（又一次）-20250228205013008.png",
-    "Pics/神谕（又一次）-20250228204502964.heic",
-    "Pics/神谕（又一次）-20250228204257747.heic",
-    "Pics/神谕（又一次）-20250228204142973.heic",
-    "Pics/神谕（又一次）-20250228203605175.png",
-    "Pics/神谕（又一次）-20250228134716502.png",
-    "学科笔记/大三秋/神谕.md",
-    "Pics/神谕（又一次）-20250227161112484.png",
-    "Pics/神谕（又一次）-20250227153945825.png",
-    "数学/函数极限和连续-1.md",
-    "学科笔记/大三冬/动员.md",
-    "学科笔记/大四春",
-    "学科笔记/大三秋/张神版计网复习 Ver. 1.1.14.md",
-    "学科笔记/大三秋/研讨.md",
-    "学科笔记/神谕.md",
-    "学科笔记/神谕其二.md",
-    "学科笔记/毛茸茸的毛线球.md",
-    "学科笔记/离散数学2.md",
-    "学科笔记/触摸屏面临哪些挑战和困难？.md",
-    "Diary/2025-02-13.md",
-    "Self-CS/How-To-Ask-Questions-The-Smart-Way.md",
-    "实践部记录/实践部手册/工作篇.md",
-    "数学",
-    "实践部记录/实践部手册/回忆篇.md",
-    "实践部记录/实践部手册/社会实践篇.md",
-    "实践部记录/点石成金项目梳理.md",
-    "读书笔记/It Doesn't Have To Be Crazy At Work.md",
-    "实践部记录/实践部手册/报销篇.md",
-    "实践部记录/实践部手册/回忆3.md",
-    "Self-CS/李宏毅机器学习课程/第五节 Transformer.md",
-    "Self-CS/李宏毅机器学习课程/第四节 self-attention.md",
-    "未命名 1.canvas",
-    "未命名.canvas"
-  ]
+  "active": "0cf34ddd9f1661ad",
+  "lastOpenFiles": []
 }
