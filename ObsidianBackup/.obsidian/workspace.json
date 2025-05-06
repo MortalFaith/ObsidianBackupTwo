@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/阴影的童年.md",
+                "file": "Self-CS/实习/总目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "阴影的童年"
+              "title": "总目录"
             }
           }
         ]
@@ -181,6 +181,8 @@
   },
   "active": "0cf34ddd9f1661ad",
   "lastOpenFiles": [
-    "Diary/阴影的童年.md"
+    "Diary/阴影的童年.md",
+    "Self-CS/实习/总目录.md",
+    "Self-CS/实习"
   ]
 }
