@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self-CS/实习/总目录.md",
+                "file": "Self-CS/实习/leetcode/每日一题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总目录"
+              "title": "每日一题"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "0cf34ddd9f1661ad",
   "lastOpenFiles": [
-    "Self-CS/实习/leetcode/每日一题.md",
     "Self-CS/实习/总目录.md",
+    "Self-CS/实习/leetcode/每日一题.md",
     "学科笔记/大四春/编译原理lyc补.md",
     "Pics/编译原理lyc补-20250602213307916.png",
     "Pics/编译原理lyc补-20250602212949347.png",
